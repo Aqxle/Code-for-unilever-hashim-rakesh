@@ -1,0 +1,1086 @@
+1. Recent Ad Spend of Procter & Gamble Co brands across all platforms
+
+                                        BRAND Jul 2024  $M Aug 2024  $M Sept 2024  $M % of Total Spend (Sept) % Change (Aug vs Jul) % Change (Sept vs Aug)
+0                                       Downy        $8.44        $8.31         $9.15                   3.98%                -1.47%                 10.09%
+1                                        Zevo        $7.42        $7.16         $7.90                   3.44%                -3.48%                 10.28%
+2                                        Tide        $8.55       $11.80         $7.37                   3.21%                37.96%                -37.51%
+3                                      Bounty        $8.56        $8.51         $7.18                   3.13%                -0.62%                -15.55%
+4                               Charmin Ultra        $5.40        $6.84         $6.02                   2.62%                26.68%                -11.94%
+5                       Downy Rinse & Refresh        $3.53        $4.26         $5.40                   2.35%                20.66%                 26.69%
+6                                      Native        $4.28        $7.97         $5.24                   2.28%                86.47%                -34.24%
+7                        Olay Cleansing Melts        $2.11        $4.32         $5.19                   2.26%               104.52%                 20.27%
+8              Head & Shoulders Classic Clean        $4.58        $7.38         $5.13                   2.23%                61.18%                -30.47%
+9                            Cascade Platinum        $3.90        $6.24         $4.59                   2.00%                60.03%                -26.43%
+10                           Swiffer Powermop        $5.19        $5.75         $4.57                   1.99%                10.87%                -20.51%
+11                                  Oral-B IO        $5.52        $5.37         $4.36                   1.90%                -2.71%                -18.72%
+12                             Crest 3D White        $7.62        $6.29         $4.36                   1.90%               -17.40%                -30.78%
+13                 Old Spice Gentlemans Blend        $3.06        $3.50         $4.17                   1.82%                14.44%                 19.10%
+14                          Secret Whole Body        $4.57        $4.28         $4.06                   1.77%                -6.36%                 -5.23%
+15                                 Dawn Ultra        $4.44        $6.78         $3.94                   1.72%                52.82%                -41.87%
+16                                       Olay        $1.97        $1.68         $3.93                   1.71%               -14.65%                133.31%
+17                      Mr Clean Magic Eraser        $3.65        $4.30         $3.74                   1.63%                17.90%                -13.00%
+18                              Pantene Pro-V        $4.72        $3.90         $3.73                   1.62%               -17.36%                 -4.25%
+19                           Crest Pro-Health        $4.39        $5.03         $3.50                   1.52%                14.60%                -30.44%
+20                                Febreze Car        $4.09        $4.61         $3.44                   1.50%                12.55%                -25.34%
+21                          Downy Unstopables        $3.17        $3.89         $3.39                   1.48%                22.82%                -12.70%
+22                                Gain Flings        $4.01        $4.88         $3.31                   1.44%                21.67%                -32.16%
+23                                    Charmin        $3.96        $2.49         $3.27                   1.42%               -37.27%                 31.52%
+24                             Dayquil Severe        $0.00        $0.74         $3.25                   1.41%                     -                339.48%
+25                              Gillette Labs        $3.60        $2.72         $3.02                   1.32%               -24.30%                 11.10%
+26                           Olay Super Serum        $3.52        $3.79         $3.00                   1.31%                 7.58%                -20.85%
+27                            Always Discreet        $2.99        $3.49         $2.94                   1.28%                16.67%                -15.78%
+28                                     Bounce        $2.28        $2.45         $2.53                   1.10%                 7.21%                  3.39%
+29                            Vicks VapoStick        $0.10        $1.64         $2.53                   1.10%              1518.18%                 53.96%
+30                             Swiffer Duster        $1.70        $2.95         $2.50                   1.09%                73.01%                -15.04%
+31                                      Sinex        $0.08        $1.57         $2.40                   1.05%              1861.97%                 52.99%
+32                                    Febreze        $1.62        $2.28         $2.40                   1.04%                40.45%                  5.37%
+33                             Vicks VapoCool        $0.10        $1.48         $2.21                   0.96%              1422.89%                 49.19%
+34                                  Olay Body        $3.18        $1.47         $2.19                   0.95%               -53.81%                 49.38%
+35                              Nyquil Severe        $0.00        $0.70         $2.18                   0.95%                     -                211.11%
+36                                New Chapter        $4.98        $1.51         $2.15                   0.94%               -69.69%                 42.47%
+37                             Swiffer WetJet        $1.90        $2.84         $2.14                   0.93%                49.30%                -24.48%
+38                       Nervive Nerve Relief        $2.82        $3.28         $2.13                   0.93%                16.48%                -35.28%
+39  Align Yogurt Coated Probiotic Fruit Bites        $1.84        $2.26         $2.10                   0.91%                22.89%                 -7.01%
+40                    Pepto-Bismol Fast Melts        $2.25        $2.24         $2.03                   0.88%                -0.24%                 -9.48%
+41                            Herbal Essences        $2.11        $1.60         $1.92                   0.83%               -24.20%                 19.90%
+42                                       Dawn        $2.11        $3.72         $1.89                   0.82%                75.86%                -49.08%
+43                              Dawn Platinum        $2.04        $1.57         $1.76                   0.76%               -23.03%                 11.90%
+44                                       Gain        $1.73        $1.77         $1.74                   0.76%                 2.19%                 -1.88%
+45                             Secret Outlast        $2.75        $1.99         $1.61                   0.70%               -27.83%                -18.86%
+46                               Prilosec OTC        $1.41        $1.54         $1.59                   0.69%                 8.80%                  3.37%
+47                    ZzzQuil Nighttime Sleep        $0.90        $2.19         $1.58                   0.69%               144.46%                -27.85%
+48                     NyQuil Severe Vapocool        $0.00        $0.17         $1.50                   0.65%                     -                798.08%
+49                           Procter & Gamble        $0.36        $0.59         $1.47                   0.64%                65.62%                147.88%
+50                                 Tide Ultra        $1.66        $0.59         $1.45                   0.63%               -64.54%                146.84%
+51                       Febreze Small Spaces        $1.42        $1.99         $1.42                   0.62%                39.60%                -28.77%
+52                                   Gillette        $1.30        $1.45         $1.37                   0.60%                11.37%                 -5.18%
+53                             Gillette Venus        $3.45        $4.63         $1.35                   0.59%                34.14%                -70.94%
+54               Herbal Essences Sulfate Free        $0.27        $0.02         $1.31                   0.57%               -92.67%               6593.12%
+55                                     Always        $0.96        $1.19         $1.31                   0.57%                24.60%                  9.62%
+56                                     Tampax        $0.63        $0.80         $1.20                   0.52%                26.66%                 49.80%
+57                    Olay Indulgent Moisture        $3.01        $1.70         $1.18                   0.51%               -43.43%                -30.83%
+58                               Febreze Plug        $0.68        $1.57         $1.17                   0.51%               131.05%                -25.17%
+59                                    Pampers        $0.43        $1.09         $1.16                   0.50%               155.40%                  5.96%
+60                                  Tide Pods        $0.84        $1.07         $1.13                   0.49%                27.52%                  6.36%
+61                            Olay Regenerist        $2.34        $2.34         $1.10                   0.48%                -0.26%                -53.08%
+62                                 Downy Soft        $0.69        $0.99         $1.10                   0.48%                45.02%                 10.22%
+63                            Olay Super Eyes        $0.00        $0.00         $1.07                   0.47%                  nan%                      -
+64                                    Swiffer        $0.85        $1.40         $1.05                   0.46%                65.02%                -25.12%
+65                                Downy Light        $1.35        $1.62         $1.03                   0.45%                19.78%                -36.05%
+66                           Downy Comfy Cozy        $0.00        $0.00         $1.01                   0.44%                  nan%                      -
+67                          Febreze Fade Defy        $1.20        $1.19         $1.01                   0.44%                -1.07%                -15.41%
+68                          Vicks Vapo Freeze        $1.34        $1.14         $0.99                   0.43%               -14.81%                -13.41%
+69                   Secret Clinical Strength        $0.00        $1.00         $0.96                   0.42%             28370.77%                 -3.38%
+70                               DayQuil Kids        $0.06        $0.80         $0.94                   0.41%              1323.53%                 17.31%
+71                               Tampax Pearl        $0.47        $0.74         $0.93                   0.41%                57.10%                 25.35%
+72                            King C Gillette        $1.56        $0.85         $0.92                   0.40%               -45.90%                  8.80%
+73                       Pampers Cruisers 360        $0.77        $1.03         $0.92                   0.40%                34.36%                -10.56%
+74                         Tide Free & Gentle        $1.85        $1.57         $0.91                   0.39%               -14.85%                -42.32%
+75                                     Secret        $0.73        $0.72         $0.90                   0.39%                -2.20%                 25.95%
+76                             Always Radiant        $0.31        $1.05         $0.90                   0.39%               244.41%                -14.16%
+77                       Bounce Free & Gentle        $0.00        $0.00         $0.89                   0.39%                  nan%                      -
+78                              ZzzQuil Ultra        $1.35        $1.58         $0.89                   0.39%                16.30%                -43.77%
+79                           Febreze Air Mist        $1.10        $1.40         $0.89                   0.39%                26.70%                -36.55%
+80                   Metamucil Psyllium Fiber        $1.32        $1.28         $0.88                   0.38%                -2.88%                -31.16%
+81                             Gain Fireworks        $0.98        $1.30         $0.83                   0.36%                31.82%                -35.94%
+82                                   Mr Clean        $0.85        $0.51         $0.79                   0.35%               -40.60%                 56.79%
+83          Align Probiotic Digestive Support        $1.03        $1.12         $0.77                   0.33%                 9.59%                -31.65%
+84                          Pampers Sensitive        $0.62        $0.99         $0.75                   0.33%                58.59%                -24.43%
+85                                  Metamucil        $0.29        $0.63         $0.74                   0.32%               120.58%                 17.33%
+86                          Gillette Intimate        $1.12        $1.00         $0.74                   0.32%               -10.64%                -26.05%
+87                      Head & Shoulders BARE        $2.09        $1.37         $0.73                   0.32%               -34.20%                -46.85%
+88                               Always Ultra        $1.94        $0.35         $0.72                   0.32%               -81.74%                103.95%
+89                                Swiffer Wet        $0.00        $0.50         $0.70                   0.31%                     -                 39.88%
+90                                  Safeguard        $0.09        $0.47         $0.69                   0.30%               448.09%                 46.67%
+91                                    Cascade        $0.15        $0.17         $0.69                   0.30%                13.66%                301.40%
+92                                      Crest        $1.10        $1.05         $0.68                   0.30%                -4.25%                -35.08%
+93                                    Zzzquil        $1.96        $1.12         $0.67                   0.29%               -42.90%                -40.52%
+94                               Pepto-Bismol        $1.37        $0.75         $0.67                   0.29%               -45.40%                -11.04%
+95                          Old Spice Swagger        $0.54        $0.25         $0.65                   0.28%               -53.11%                157.03%
+96                            Metamucil Fiber        $1.46        $0.85         $0.65                   0.28%               -41.43%                -24.16%
+97                  Olay Cleansing & Renewing        $1.31        $2.72         $0.63                   0.27%               108.17%                -76.96%
+98                         Swiffer Heavy Duty        $3.00        $1.77         $0.57                   0.25%               -40.88%                -67.73%
+99                             Olay Corporate        $0.00        $0.00         $0.49                   0.21%                  nan%                      -
+
+
+2. Procter & Gamble Co Brands with High Ad Spend
+
+                                         BRAND TOTAL $M
+206                                       Tide   $27.72
+59                                       Downy   $25.90
+31                                      Bounty   $24.25
+230                                       Zevo   $22.48
+44                              Crest 3D White   $18.27
+42                               Charmin Ultra   $18.26
+116                                     Native   $17.49
+95              Head & Shoulders Classic Clean   $17.09
+198                           Swiffer Powermop   $15.50
+158                                  Oral-B IO   $15.25
+51                                  Dawn Ultra   $15.16
+38                            Cascade Platinum   $14.72
+64                       Downy Rinse & Refresh   $13.19
+47                            Crest Pro-Health   $12.91
+190                          Secret Whole Body   $12.90
+170                              Pantene Pro-V   $12.35
+81                                 Gain Flings   $12.20
+73                                 Febreze Car   $12.14
+114                      Mr Clean Magic Eraser   $11.68
+138                       Olay Cleansing Melts   $11.62
+149                 Old Spice Gentlemans Blend   $10.74
+67                           Downy Unstopables   $10.45
+145                           Olay Super Serum   $10.31
+39                                     Charmin    $9.72
+91                              Gillette Venus    $9.43
+7                              Always Discreet    $9.42
+86                               Gillette Labs    $9.34
+125                                New Chapter    $8.63
+123                       Nervive Nerve Relief    $8.23
+48                                        Dawn    $7.72
+133                                       Olay    $7.58
+27                                      Bounce    $7.25
+196                             Swiffer Duster    $7.16
+201                             Swiffer WetJet    $6.89
+134                                  Olay Body    $6.83
+173                    Pepto-Bismol Fast Melts    $6.52
+188                             Secret Outlast    $6.35
+70                                     Febreze    $6.29
+4    Align Yogurt Coated Probiotic Fruit Bites    $6.20
+141                    Olay Indulgent Moisture    $5.90
+143                            Olay Regenerist    $5.78
+98                             Herbal Essences    $5.62
+49                               Dawn Platinum    $5.36
+197                         Swiffer Heavy Duty    $5.34
+79                                        Gain    $5.24
+77                        Febreze Small Spaces    $4.83
+234                    ZzzQuil Nighttime Sleep    $4.66
+137                  Olay Cleansing & Renewing    $4.65
+174                               Prilosec OTC    $4.55
+208                         Tide Free & Gentle    $4.32
+225                            Vicks VapoStick    $4.27
+94                       Head & Shoulders BARE    $4.19
+83                                    Gillette    $4.12
+191                                      Sinex    $4.05
+63                                 Downy Light    $4.00
+55                              Dayquil Severe    $3.99
+235                              ZzzQuil Ultra    $3.82
+222                             Vicks VapoCool    $3.79
+236                                    Zzzquil    $3.75
+213                                 Tide Ultra    $3.70
+110                   Metamucil Psyllium Fiber    $3.48
+221                          Vicks Vapo Freeze    $3.46
+5                                       Always    $3.45
+76                                Febreze Plug    $3.41
+75                           Febreze Fade Defy    $3.40
+72                            Febreze Air Mist    $3.38
+104                            King C Gillette    $3.33
+193                                    Swiffer    $3.31
+80                              Gain Fireworks    $3.11
+209                                  Tide Pods    $3.04
+16                                Always Ultra    $3.02
+108                            Metamucil Fiber    $2.96
+3            Align Probiotic Digestive Support    $2.92
+131                              Nyquil Severe    $2.88
+85                           Gillette Intimate    $2.86
+43                                       Crest    $2.83
+172                               Pepto-Bismol    $2.78
+65                                  Downy Soft    $2.77
+162                       Pampers Cruisers 360    $2.71
+159                                    Pampers    $2.68
+202                                     Tampax    $2.63
+175                           Procter & Gamble    $2.42
+165                          Pampers Sensitive    $2.36
+184                                     Secret    $2.36
+111                            Mielle Organics    $2.34
+15                              Always Radiant    $2.26
+203                               Tampax Pearl    $2.15
+113                                   Mr Clean    $2.15
+186                   Secret Clinical Strength    $1.97
+53                                DayQuil Kids    $1.79
+106                                  Metamucil    $1.67
+129                     NyQuil Severe Vapocool    $1.66
+107                     Metamucil 4-In-1 Fiber    $1.63
+14                                 Always Pure    $1.61
+101               Herbal Essences Sulfate Free    $1.60
+152                          Old Spice Swagger    $1.44
+66                                 Downy Ultra    $1.42
+183                                  Safeguard    $1.26
+167                          Pampers Swaddlers    $1.25
+200                                Swiffer Wet    $1.20
+
+
+2. Procter & Gamble Co Brands with Low Ad Spend
+
+                                         BRAND TOTAL $M
+217                             Vicks BabyBalm    $0.01
+84                             Gillette Fusion    $0.01
+88                           Gillette ProGlide    $0.01
+155                        Oral-B Encias Detox    $0.01
+24                                      Aussie    $0.01
+229                              Whisper Ultra    $0.01
+69                                      Escudo    $0.01
+92                            Head & Shoulders    $0.01
+122                                    Nervive    $0.01
+97           Head & Shoulders Itchy Scalp Care    $0.01
+34                              Braun Series 9    $0.01
+46                          Crest Gum Detoxify    $0.01
+171                                 Pepto Kids    $0.01
+228                                    Whisper    $0.01
+135                       Olay Body Collection    $0.01
+68                                       Dreft    $0.01
+223                            Vicks VapoPatch    $0.01
+218                      Vicks Childrens Sinex    $0.01
+21                                 Ariel Ultra    $0.01
+140                       Olay Hyaluronic Acid    $0.02
+8                 Always Extra Heavy Overnight    $0.02
+1    Align Bloating Relief Plus Food Digestion    $0.02
+117                          Native Candy Shop    $0.02
+168                                    Pantene    $0.02
+194                                Swiffer Dry    $0.02
+161                               Pampers Club    $0.02
+115                      Mr Clean Magic Toilet    $0.02
+17                                       Ariel    $0.03
+180                                 Puffs Plus    $0.03
+124                                  Neurobion    $0.03
+232                                  Zevo Trap    $0.03
+32                                       Braun    $0.03
+233                                 Zirh Store    $0.04
+61                           Downy April Fresh    $0.05
+12                                 Always Maxi    $0.05
+54                                     Dayquil    $0.05
+74                      Febreze Extra Strength    $0.06
+52                 DayQuil High Blood Pressure    $0.06
+13                            Always Overnight    $0.08
+96          Head & Shoulders Clinical Strength    $0.08
+231                                   Zevo Max    $0.08
+215                                      Vicks    $0.12
+127         New Chapter Every Womans One Daily    $0.13
+178         Procter & Gamble Professional Line    $0.16
+148                             Old Spice Fiji    $0.17
+25                                       Bevel    $0.17
+182                               SK-II Pitera    $0.17
+177                 Procter & Gamble Corporate    $0.18
+23                         Art Of Shaving Shop    $0.19
+2                              Align Probiotic    $0.19
+224                           Vicks VapoShower    $0.19
+100              Herbal Essences Color Nurture    $0.22
+207                                   Tide Evo    $0.25
+120                          Native Whole Body    $0.28
+219                            Vicks Pure Zzzs    $0.30
+195                          Swiffer Dry & Wet    $0.31
+226                              Vicks Vaporub    $0.35
+118                                Native Hair    $0.38
+146                        Olay Ultra Moisture    $0.39
+56                           DentureLiving.com    $0.42
+78                                    Fixodent    $0.45
+199                            Swiffer Sweeper    $0.45
+119                             Native Mineral    $0.46
+112        Mielle Organics Pomegranate & Honey    $0.48
+139                             Olay Corporate    $0.49
+45                     Crest Cavity Protection    $0.49
+102                              ILoveGain.com    $0.49
+
+
+3. Procter & Gamble Co Brands with Ad Spend Growth
+
+                                  BRAND August Spend ($M) September Spend ($M) Spend Change ($M) Spend Change %
+59                                Downy             $8.31                $9.15             $0.84         10.09%
+230                                Zevo             $7.16                $7.90             $0.74         10.28%
+64                Downy Rinse & Refresh             $4.26                $5.40             $1.14         26.69%
+138                Olay Cleansing Melts             $4.32                $5.19             $0.88         20.27%
+149          Old Spice Gentlemans Blend             $3.50                $4.17             $0.67          19.1%
+133                                Olay             $1.68                $3.93             $2.24        133.31%
+39                              Charmin             $2.49                $3.27             $0.78         31.52%
+55                       Dayquil Severe             $0.74                $3.25             $2.51        339.48%
+86                        Gillette Labs             $2.72                $3.02             $0.30          11.1%
+27                               Bounce             $2.45                $2.53             $0.08          3.39%
+225                     Vicks VapoStick             $1.64                $2.53             $0.89         53.96%
+191                               Sinex             $1.57                $2.40             $0.83         52.99%
+70                              Febreze             $2.28                $2.40             $0.12          5.37%
+222                      Vicks VapoCool             $1.48                $2.21             $0.73         49.19%
+134                           Olay Body             $1.47                $2.19             $0.72         49.38%
+131                       Nyquil Severe             $0.70                $2.18             $1.48        211.11%
+125                         New Chapter             $1.51                $2.15             $0.64         42.47%
+98                      Herbal Essences             $1.60                $1.92             $0.32          19.9%
+49                        Dawn Platinum             $1.57                $1.76             $0.19          11.9%
+174                        Prilosec OTC             $1.54                $1.59             $0.05          3.37%
+129              NyQuil Severe Vapocool             $0.17                $1.50             $1.33        798.08%
+175                    Procter & Gamble             $0.59                $1.47             $0.88        147.88%
+213                          Tide Ultra             $0.59                $1.45             $0.87        146.84%
+101        Herbal Essences Sulfate Free             $0.02                $1.31             $1.29       6593.12%
+5                                Always             $1.19                $1.31             $0.11          9.62%
+202                              Tampax             $0.80                $1.20             $0.40          49.8%
+159                             Pampers             $1.09                $1.16             $0.07          5.96%
+209                           Tide Pods             $1.07                $1.13             $0.07          6.36%
+65                           Downy Soft             $0.99                $1.10             $0.10         10.22%
+144                     Olay Super Eyes             $0.00                $1.07             $1.07         100.0%
+62                     Downy Comfy Cozy             $0.00                $1.01             $1.01         100.0%
+53                         DayQuil Kids             $0.80                $0.94             $0.14         17.31%
+203                        Tampax Pearl             $0.74                $0.93             $0.19         25.35%
+104                     King C Gillette             $0.85                $0.92             $0.07           8.8%
+184                              Secret             $0.72                $0.90             $0.19         25.95%
+29                 Bounce Free & Gentle             $0.00                $0.89             $0.89         100.0%
+113                            Mr Clean             $0.51                $0.79             $0.29         56.79%
+106                           Metamucil             $0.63                $0.74             $0.11         17.33%
+16                         Always Ultra             $0.35                $0.72             $0.37        103.95%
+200                         Swiffer Wet             $0.50                $0.70             $0.20         39.88%
+183                           Safeguard             $0.47                $0.69             $0.22         46.67%
+37                              Cascade             $0.17                $0.69             $0.52         301.4%
+152                   Old Spice Swagger             $0.25                $0.65             $0.40        157.03%
+139                      Olay Corporate             $0.00                $0.49             $0.49         100.0%
+82                           Gain Relax             $0.21                $0.47             $0.27        129.28%
+238                   Zzzquil Pure Zzzs             $0.27                $0.42             $0.15         54.97%
+78                             Fixodent             $0.06                $0.39             $0.34        616.19%
+89                   Gillette SkinGuard             $0.34                $0.35             $0.01          2.82%
+199                     Swiffer Sweeper             $0.06                $0.35             $0.29        470.34%
+0                                 Align             $0.23                $0.30             $0.07         30.19%
+120                   Native Whole Body             $0.00                $0.28             $0.28      20977.94%
+176                 Procter & Gamble Co             $0.12                $0.25             $0.13        104.92%
+195                   Swiffer Dry & Wet             $0.07                $0.24             $0.17        233.06%
+207                            Tide Evo             $0.03                $0.22             $0.20        765.53%
+219                     Vicks Pure Zzzs             $0.11                $0.19             $0.08         68.89%
+148                      Old Spice Fiji             $0.00                $0.17             $0.17         100.0%
+118                         Native Hair             $0.10                $0.16             $0.06         56.31%
+56                    DentureLiving.com             $0.15                $0.16             $0.01          5.01%
+178  Procter & Gamble Professional Line             $0.03                $0.12             $0.09        304.38%
+23                  Art Of Shaving Shop             $0.07                $0.07             $0.00          5.28%
+215                               Vicks             $0.05                $0.06             $0.01          9.57%
+2                       Align Probiotic             $0.06                $0.06             $0.00          4.81%
+127  New Chapter Every Womans One Daily             $0.01                $0.03             $0.02        242.67%
+74               Febreze Extra Strength             $0.02                $0.03             $0.01         58.51%
+194                         Swiffer Dry             $0.00                $0.02             $0.02         100.0%
+233                          Zirh Store             $0.02                $0.02             $0.00         14.91%
+180                          Puffs Plus             $0.00                $0.02             $0.01        296.68%
+17                                Ariel             $0.01                $0.01             $0.01         96.72%
+68                                Dreft             $0.00                $0.01             $0.01         100.0%
+32                                Braun             $0.00                $0.01             $0.00         87.34%
+140                Olay Hyaluronic Acid             $0.01                $0.01             $0.00         16.73%
+171                          Pepto Kids             $0.00                $0.01             $0.01         100.0%
+21                          Ariel Ultra             $0.01                $0.01             $0.00          2.91%
+214        Tide Washing Machine Cleaner             $0.00                $0.00             $0.00        792.65%
+69                               Escudo             $0.00                $0.00             $0.00          7.55%
+87                      Gillette Mach 3             $0.00                $0.00             $0.00        333.65%
+93        Head & Shoulders Anti-Comezon             $0.00                $0.00             $0.00         100.0%
+34                       Braun Series 9             $0.00                $0.00             $0.00          3.96%
+84                      Gillette Fusion             $0.00                $0.00             $0.00          3.66%
+228                             Whisper             $0.00                $0.00             $0.00          2.86%
+24                               Aussie             $0.00                $0.00             $0.00         100.0%
+217                      Vicks BabyBalm             $0.00                $0.00             $0.00           3.2%
+88                    Gillette ProGlide             $0.00                $0.00             $0.00          2.74%
+169             Pantene Oil Replacement             $0.00                $0.00             $0.00         100.0%
+229                       Whisper Ultra             $0.00                $0.00             $0.00         100.0%
+19                    Ariel Doble Poder             $0.00                $0.00             $0.00         100.0%
+155                 Oral-B Encias Detox             $0.00                $0.00             $0.00         48.93%
+121                  Naturella Nocturna             $0.00                $0.00             $0.00          1.85%
+92                     Head & Shoulders             $0.00                $0.00             $0.00         25.45%
+71                  Febreze Air Effects             $0.00                $0.00             $0.00          2.32%
+58                       Dolo-Neurobion             $0.00                $0.00             $0.00          23.5%
+187                Secret Fresh Defense             $0.00                $0.00             $0.00          8.09%
+20                   Ariel Revita Color             $0.00                $0.00             $0.00         100.0%
+212                          Tide To Go             $0.00                $0.00             $0.00         100.0%
+90                 Gillette Specialized             $0.00                $0.00             $0.00          0.33%
+18                  Ariel Color De Luxe             $0.00                $0.00             $0.00        281.08%
+150              Old Spice Ocean Legend             $0.00                $0.00             $0.00        167.83%
+128          NyQuil High Blood Pressure             $0.00                $0.00             $0.00       1349.82%
+227                               Voost             $0.00                $0.00             $0.00         15.38%
+10                         Always Fresh             $0.00                $0.00             $0.00        246.67%
+
+
+4. Procter & Gamble Co Brands with Ad Spend Decline
+
+                                         BRAND August Spend ($M) September Spend ($M) Spend Change ($M) Spend Change %
+206                                       Tide            $11.80                $7.37            $-4.43        -37.51%
+31                                      Bounty             $8.51                $7.18            $-1.32        -15.55%
+42                               Charmin Ultra             $6.84                $6.02            $-0.82        -11.94%
+116                                     Native             $7.97                $5.24            $-2.73        -34.24%
+95              Head & Shoulders Classic Clean             $7.38                $5.13            $-2.25        -30.47%
+38                            Cascade Platinum             $6.24                $4.59            $-1.65        -26.43%
+198                           Swiffer Powermop             $5.75                $4.57            $-1.18        -20.51%
+158                                  Oral-B IO             $5.37                $4.36            $-1.00        -18.72%
+44                              Crest 3D White             $6.29                $4.36            $-1.94        -30.78%
+190                          Secret Whole Body             $4.28                $4.06            $-0.22         -5.23%
+51                                  Dawn Ultra             $6.78                $3.94            $-2.84        -41.87%
+114                      Mr Clean Magic Eraser             $4.30                $3.74            $-0.56         -13.0%
+170                              Pantene Pro-V             $3.90                $3.73            $-0.17         -4.25%
+47                            Crest Pro-Health             $5.03                $3.50            $-1.53        -30.44%
+73                                 Febreze Car             $4.61                $3.44            $-1.17        -25.34%
+67                           Downy Unstopables             $3.89                $3.39            $-0.49         -12.7%
+81                                 Gain Flings             $4.88                $3.31            $-1.57        -32.16%
+145                           Olay Super Serum             $3.79                $3.00            $-0.79        -20.85%
+7                              Always Discreet             $3.49                $2.94            $-0.55        -15.78%
+196                             Swiffer Duster             $2.95                $2.50            $-0.44        -15.04%
+201                             Swiffer WetJet             $2.84                $2.14            $-0.70        -24.48%
+123                       Nervive Nerve Relief             $3.28                $2.13            $-1.16        -35.28%
+4    Align Yogurt Coated Probiotic Fruit Bites             $2.26                $2.10            $-0.16         -7.01%
+173                    Pepto-Bismol Fast Melts             $2.24                $2.03            $-0.21         -9.48%
+48                                        Dawn             $3.72                $1.89            $-1.82        -49.08%
+79                                        Gain             $1.77                $1.74            $-0.03         -1.88%
+188                             Secret Outlast             $1.99                $1.61            $-0.37        -18.86%
+234                    ZzzQuil Nighttime Sleep             $2.19                $1.58            $-0.61        -27.85%
+77                        Febreze Small Spaces             $1.99                $1.42            $-0.57        -28.77%
+83                                    Gillette             $1.45                $1.37            $-0.08         -5.18%
+91                              Gillette Venus             $4.63                $1.35            $-3.29        -70.94%
+141                    Olay Indulgent Moisture             $1.70                $1.18            $-0.53        -30.83%
+76                                Febreze Plug             $1.57                $1.17            $-0.39        -25.17%
+143                            Olay Regenerist             $2.34                $1.10            $-1.24        -53.08%
+193                                    Swiffer             $1.40                $1.05            $-0.35        -25.12%
+63                                 Downy Light             $1.62                $1.03            $-0.58        -36.05%
+75                           Febreze Fade Defy             $1.19                $1.01            $-0.18        -15.41%
+221                          Vicks Vapo Freeze             $1.14                $0.99            $-0.15        -13.41%
+186                   Secret Clinical Strength             $1.00                $0.96            $-0.03         -3.38%
+162                       Pampers Cruisers 360             $1.03                $0.92            $-0.11        -10.56%
+208                         Tide Free & Gentle             $1.57                $0.91            $-0.67        -42.32%
+15                              Always Radiant             $1.05                $0.90            $-0.15        -14.16%
+235                              ZzzQuil Ultra             $1.58                $0.89            $-0.69        -43.77%
+72                            Febreze Air Mist             $1.40                $0.89            $-0.51        -36.55%
+110                   Metamucil Psyllium Fiber             $1.28                $0.88            $-0.40        -31.16%
+80                              Gain Fireworks             $1.30                $0.83            $-0.47        -35.94%
+3            Align Probiotic Digestive Support             $1.12                $0.77            $-0.36        -31.65%
+165                          Pampers Sensitive             $0.99                $0.75            $-0.24        -24.43%
+85                           Gillette Intimate             $1.00                $0.74            $-0.26        -26.05%
+94                       Head & Shoulders BARE             $1.37                $0.73            $-0.64        -46.85%
+43                                       Crest             $1.05                $0.68            $-0.37        -35.08%
+236                                    Zzzquil             $1.12                $0.67            $-0.45        -40.52%
+172                               Pepto-Bismol             $0.75                $0.67            $-0.08        -11.04%
+108                            Metamucil Fiber             $0.85                $0.65            $-0.21        -24.16%
+137                  Olay Cleansing & Renewing             $2.72                $0.63            $-2.09        -76.96%
+197                         Swiffer Heavy Duty             $1.77                $0.57            $-1.20        -67.73%
+167                          Pampers Swaddlers             $0.50                $0.48            $-0.02         -4.74%
+14                                 Always Pure             $0.70                $0.43            $-0.26         -37.5%
+66                                 Downy Ultra             $0.48                $0.41            $-0.07        -15.44%
+107                     Metamucil 4-In-1 Fiber             $0.50                $0.37            $-0.13        -26.35%
+111                            Mielle Organics             $0.86                $0.37            $-0.49        -57.45%
+147                                  Old Spice             $0.37                $0.29            $-0.07        -20.29%
+35       Braun Shaving & Hair Removal Products             $0.33                $0.28            $-0.05        -14.84%
+41                     Charmin Super Mega Roll             $0.29                $0.27            $-0.01         -4.71%
+109              Metamucil Fiber Plus Vitamins             $0.32                $0.25            $-0.08        -23.39%
+153                                     Oral-B             $0.20                $0.20            $-0.00         -0.59%
+132                                       OUAI             $0.29                $0.19            $-0.10        -35.75%
+11                             Always Infinity             $0.39                $0.16            $-0.23        -58.72%
+181                                      SK-II             $0.16                $0.16            $-0.01         -3.36%
+204                             Tampax Radiant             $0.29                $0.14            $-0.15        -50.82%
+136                             Olay Cleansing             $0.26                $0.14            $-0.11        -44.92%
+30                Bounce Pet Hair & Lint Guard             $0.15                $0.13            $-0.02        -11.43%
+45                     Crest Cavity Protection             $0.20                $0.13            $-0.07         -34.7%
+226                              Vicks Vaporub             $0.19                $0.13            $-0.06        -32.81%
+112        Mielle Organics Pomegranate & Honey             $0.20                $0.09            $-0.11        -54.55%
+224                           Vicks VapoShower             $0.09                $0.08            $-0.00         -3.87%
+102                              ILoveGain.com             $0.15                $0.08            $-0.07        -45.73%
+9                           Always Flexi-Style             $0.31                $0.06            $-0.24        -79.16%
+25                                       Bevel             $0.07                $0.06            $-0.01        -15.39%
+50                                  Dawn Power             $0.41                $0.06            $-0.35        -85.68%
+13                            Always Overnight             $0.04                $0.03            $-0.01         -23.3%
+54                                     Dayquil             $0.03                $0.02            $-0.02         -55.0%
+115                      Mr Clean Magic Toilet             $0.01                $0.01            $-0.00        -16.03%
+232                                  Zevo Trap             $0.02                $0.01            $-0.02        -72.75%
+218                      Vicks Childrens Sinex             $0.01                $0.01            $-0.00        -16.41%
+163                           Pampers Easy Ups             $0.08                $0.00            $-0.07        -94.48%
+223                            Vicks VapoPatch             $0.01                $0.00            $-0.00        -49.15%
+177                 Procter & Gamble Corporate             $0.07                $0.00            $-0.06        -95.81%
+179                                      Puffs             $0.25                $0.00            $-0.24        -98.95%
+182                               SK-II Pitera             $0.09                $0.00            $-0.09        -97.07%
+119                             Native Mineral             $0.13                $0.00            $-0.13        -98.08%
+192                               Sinex Severe             $0.00                $0.00            $-0.00        -24.59%
+124                                  Neurobion             $0.02                $0.00            $-0.01        -89.83%
+126        New Chapter Bone Strength Take Care             $0.00                $0.00            $-0.00        -16.33%
+103                                 Ivory Snow             $0.00                $0.00            $-0.00        -46.21%
+99                   Herbal Essences Bio Renew             $0.00                $0.00            $-0.00        -11.39%
+117                          Native Candy Shop             $0.02                $0.00            $-0.02        -96.44%
+220                               Vicks Pyrena             $0.00                $0.00            $-0.00        -24.47%
+26                                      Bold 3             $0.00                $0.00            $-0.00        -43.81%
+216                                Vicks Act 7             $0.00                $0.00            $-0.00        -52.18%
+
+
+5. Spend by Procter & Gamble Co on different media types
+
+                 MEDIA July Spend ($M) August Spend ($M) September Spend ($M) Total 3-Month Spend ($M) Sept % of Total Jul-Aug % Change Aug-Sept % Change
+0             Cable TV          $60.29            $71.75               $59.02                  $191.05          25.69%            19.0%           -17.75%
+1           Network TV          $43.22            $57.90               $41.59                  $142.71          18.11%           33.95%           -28.16%
+2                 AVOD          $19.80            $18.26               $20.83                   $58.90           9.07%           -7.76%            14.06%
+3     Mobile Web Video          $19.89            $20.63               $19.36                   $59.87           8.43%            3.75%            -6.19%
+4          Syndication          $18.63            $18.72               $17.06                   $54.41           7.43%            0.48%            -8.85%
+5          Local Radio          $16.82            $16.34               $15.11                   $48.27           6.58%           -2.87%            -7.49%
+6            Magazines           $7.68             $5.57               $11.16                   $24.41           4.86%          -27.44%           100.25%
+7        Network Radio           $7.86             $8.59               $10.26                   $26.71           4.47%            9.29%            19.43%
+8           Mobile App           $7.90             $7.70                $7.89                   $23.49           3.44%           -2.51%             2.47%
+9         Online Video           $7.28             $8.21                $7.74                   $23.23           3.37%            12.8%             -5.8%
+10    Span Lang Net TV           $7.91             $8.57                $7.69                   $24.17           3.35%            8.39%           -10.28%
+11             Spot TV           $4.91             $5.51                $5.85                   $16.27           2.54%           12.31%             5.99%
+12   Internet - Search           $2.08             $1.91                $2.20                    $6.19           0.96%           -7.83%            14.92%
+13  Internet - Display           $1.36             $1.59                $1.75                    $4.70           0.76%           17.28%             9.64%
+14     Natl Spot Radio           $0.69             $0.73                $1.09                    $2.52           0.48%            5.97%            49.11%
+15          Mobile Web           $0.34             $0.57                $1.00                    $1.92           0.44%           66.01%            75.92%
+16             Outdoor           $0.46             $0.19                $0.08                    $0.73           0.03%          -58.31%           -59.52%
+17              Cinema           $0.01             $0.05                $0.03                    $0.09           0.01%          532.88%            -38.1%
+18          Newspapers           $0.00             $0.00                $0.01                    $0.01            0.0%             0.0%                 -
+19               Total         $227.13           $252.82              $229.72                  $709.67          100.0%           11.31%            -9.14%
+
+
+6. Spend by Procter & Gamble Co brands on different media types
+
+                                         BRAND    AVOD Cable TV Cinema Internet - Display Internet - Search Local Radio Magazines Mobile App Mobile Web Mobile Web Video Natl Spot Radio Network Radio Network TV Newspapers Online Video Outdoor Span Lang Net TV Spot TV Syndication Brand Total Spend ($M)
+205                                       Tide   0.96%   34.71%  0.00%              0.01%             1.47%       0.00%     0.00%      4.63%      0.03%           13.66%           2.35%         2.80%     19.46%      0.00%        1.37%   0.00%            6.38%   1.67%      10.51%                 $27.72
+58                                       Downy   0.00%    8.51%  0.00%              2.32%             0.00%       0.00%     0.00%      8.88%      0.00%           61.10%           0.00%         5.27%      6.26%      0.00%        3.20%   0.00%            1.48%   0.70%       2.28%                 $25.90
+30                                      Bounty   2.70%   17.33%  0.00%              0.02%             0.00%       4.40%     0.00%      4.97%      0.19%            8.27%           0.02%         3.01%     34.94%      0.00%       10.50%   0.00%            0.00%   2.63%      11.03%                 $24.25
+229                                       Zevo   0.00%   40.54%  0.00%              0.79%             0.00%       4.11%     1.37%      0.38%      0.00%            3.80%           0.00%         2.31%     28.35%      0.00%        0.68%   0.20%            0.00%   4.64%      12.84%                 $22.48
+43                              Crest 3D White  27.65%   30.68%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.24%           0.00%         0.00%     27.77%      0.00%        4.78%   0.00%            2.08%   1.35%       5.45%                 $18.27
+41                               Charmin Ultra   9.55%   27.37%  0.00%              0.03%             0.00%       1.93%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     35.89%      0.00%        0.00%   0.00%            0.00%   4.25%      20.98%                 $18.26
+115                                     Native   1.03%    0.00%  0.00%              8.24%             5.10%       0.00%     0.00%     53.88%      0.49%           24.61%           0.00%         0.00%      0.00%      0.00%        6.64%   0.00%            0.00%   0.01%       0.00%                 $17.49
+94              Head & Shoulders Classic Clean   0.00%   43.08%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     31.05%      0.00%        0.05%   0.00%            4.85%   4.25%      16.72%                 $17.09
+197                           Swiffer Powermop  17.74%   30.18%  0.00%              0.00%             0.00%      10.97%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     21.00%      0.00%        0.03%   0.00%            4.60%   3.82%      11.64%                 $15.50
+157                                  Oral-B IO  25.32%   37.63%  0.00%              0.12%             0.00%       0.00%     0.00%      0.42%      0.04%            1.90%           0.00%         0.00%     17.92%      0.00%        8.94%   0.00%            2.13%   1.43%       4.14%                 $15.25
+50                                  Dawn Ultra   2.50%   41.31%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     32.90%      0.00%        0.00%   0.00%            8.00%   3.43%      11.85%                 $15.16
+37                            Cascade Platinum  30.14%   29.31%  0.00%              0.00%             0.00%       0.03%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     29.63%      0.00%        0.09%   0.00%            3.92%   3.22%       3.66%                 $14.72
+63                       Downy Rinse & Refresh  19.86%   17.04%  0.00%              0.00%             0.00%      24.18%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     20.98%      0.00%        0.00%   0.00%            3.49%   3.34%      11.10%                 $13.19
+46                            Crest Pro-Health  23.77%   39.55%  0.00%              0.01%             0.00%       0.61%     0.00%      0.02%      0.00%            0.06%           0.00%         0.00%     22.32%      0.00%        0.22%   0.00%            2.57%   1.94%       8.93%                 $12.91
+189                          Secret Whole Body   0.00%   24.80%  0.00%              0.00%             0.00%      16.34%    22.18%      0.00%      0.00%            0.00%           0.00%         0.00%     25.70%      0.00%        0.00%   0.00%            0.00%   2.27%       8.71%                 $12.90
+169                              Pantene Pro-V   0.00%   46.33%  0.00%              0.00%             0.00%       0.00%     0.00%      0.01%      0.00%            0.00%           0.00%         0.00%     26.24%      0.00%        0.01%   0.00%            8.28%   3.77%      15.36%                 $12.35
+80                                 Gain Flings   1.65%   41.34%  0.00%              0.00%             0.00%      15.72%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     18.56%      0.00%        0.00%   0.00%            6.68%   3.66%      12.38%                 $12.20
+72                                 Febreze Car   0.61%   34.52%  0.00%              0.00%             0.00%      18.57%     0.00%      0.00%      0.00%            4.93%           5.07%         0.00%     23.67%      0.00%        0.15%   0.00%            5.00%   0.46%       7.02%                 $12.14
+113                      Mr Clean Magic Eraser   0.99%   41.88%  0.00%              0.02%             0.00%      10.52%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     22.31%      0.00%        0.00%   0.00%            5.54%   2.36%      16.38%                 $11.68
+137                       Olay Cleansing Melts   0.00%   18.15%  0.00%              1.72%             0.00%       0.00%    12.67%      0.74%      0.00%            2.18%           0.00%         0.00%     55.95%      0.00%        4.13%   0.00%            0.66%   1.26%       2.54%                 $11.62
+148                 Old Spice Gentlemans Blend  17.56%   37.88%  0.87%              0.00%             0.00%      27.42%     1.71%      0.00%      0.00%            0.04%           0.00%         0.00%      6.65%      0.00%        0.20%   0.00%            2.98%   2.28%       2.42%                 $10.74
+66                           Downy Unstopables  15.55%   27.92%  0.00%              0.00%             0.00%      21.24%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     19.19%      0.00%        0.02%   0.00%            5.17%   1.34%       9.57%                 $10.45
+144                           Olay Super Serum   0.14%   34.04%  0.00%              1.07%             0.00%       0.00%     0.00%      3.92%      0.00%           20.60%           0.00%         0.00%     14.24%      0.00%       14.44%   0.00%            3.79%   2.31%       5.44%                 $10.31
+38                                     Charmin   0.00%    0.00%  0.00%              0.03%             0.00%       0.03%     0.00%     25.52%      0.00%           43.86%           0.03%        13.82%      0.67%      0.00%       16.01%   0.02%            0.00%   0.00%       0.00%                  $9.72
+90                              Gillette Venus   0.00%   21.65%  0.00%              0.10%             0.00%       5.28%     0.00%      0.17%      0.00%            0.00%           0.00%        12.59%     52.77%      0.00%        0.00%   0.00%            5.23%   0.06%       2.15%                  $9.43
+6                              Always Discreet   0.00%   12.51%  0.00%              1.10%             0.00%       2.68%     0.00%      2.38%      0.00%           20.28%           0.00%         0.00%     17.09%      0.00%       25.56%   0.00%            1.75%   5.59%      11.05%                  $9.42
+85                               Gillette Labs   0.00%   33.73%  0.00%              0.01%             0.00%       0.31%     0.00%      0.00%      0.00%            1.56%           0.00%         0.00%     40.39%      0.00%        0.10%   0.00%           12.89%   3.40%       7.61%                  $9.34
+124                                New Chapter  82.83%    0.00%  0.00%              3.07%             5.31%       0.00%     0.00%      2.02%      2.42%            1.65%           0.00%         0.00%      0.00%      0.00%        2.70%   0.00%            0.00%   0.00%       0.00%                  $8.63
+122                       Nervive Nerve Relief   1.83%   21.54%  0.00%              0.00%             0.00%       9.41%    30.38%      0.00%      0.00%            0.00%           0.00%         5.46%     20.19%      0.00%        0.00%   0.00%            0.00%   4.10%       7.08%                  $8.23
+47                                        Dawn   5.99%    0.00%  0.00%              0.01%             0.00%       0.00%     0.00%      3.78%      0.00%           76.12%           0.54%         0.00%      0.64%      0.00%       12.93%   0.00%            0.00%   0.00%       0.00%                  $7.72
+132                                       Olay   0.00%    7.16%  0.00%              4.59%             2.65%       0.00%    57.35%      1.32%      0.01%           14.74%           0.00%         0.00%      3.72%      0.00%        5.02%   0.09%            0.00%   0.57%       2.80%                  $7.58
+26                                      Bounce   0.00%   31.91%  0.00%              0.01%             0.00%      25.04%     0.00%      0.00%      0.00%            0.28%           2.76%         6.87%     14.16%      0.00%        0.13%   0.00%            0.00%   3.02%      15.82%                  $7.25
+195                             Swiffer Duster   0.22%   37.84%  0.00%              0.00%             0.00%      19.55%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     27.89%      0.00%        0.04%   0.00%            1.41%   1.66%      11.40%                  $7.16
+200                             Swiffer WetJet  22.44%   40.63%  0.00%              0.00%             0.00%       0.01%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     26.34%      0.00%        0.00%   0.00%            5.29%   0.82%       4.47%                  $6.89
+133                                  Olay Body  12.72%    3.63%  0.00%              0.00%             0.00%      22.24%    27.02%      0.00%      0.00%            0.00%           0.00%        30.23%      2.17%      0.16%        0.00%   0.00%            0.00%   0.61%       1.23%                  $6.83
+172                    Pepto-Bismol Fast Melts  37.18%   28.46%  0.00%              0.00%             0.00%       0.11%     0.00%      0.00%      0.00%            0.09%           0.00%         0.00%     23.85%      0.00%        0.13%   0.00%            3.75%   2.87%       3.55%                  $6.52
+187                             Secret Outlast   0.00%    9.08%  0.00%              0.00%             0.00%      14.47%    43.84%      0.00%      0.00%            0.00%           0.00%         0.00%      7.65%      0.00%        0.00%   0.00%           10.07%   1.36%      13.53%                  $6.35
+69                                     Febreze   0.24%   21.98%  0.00%              0.13%             0.00%       5.51%     0.00%      1.30%      0.00%           22.56%           0.00%        29.54%     11.07%      0.00%        0.64%   0.06%            3.16%   0.28%       3.53%                  $6.29
+4    Align Yogurt Coated Probiotic Fruit Bites   0.14%   53.67%  0.00%              0.00%             0.00%      13.82%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     21.13%      0.00%        0.00%   0.00%            0.00%   5.70%       5.55%                  $6.20
+140                    Olay Indulgent Moisture   0.00%    6.95%  0.00%              0.00%             0.00%      25.89%    51.44%      0.00%      0.00%            0.00%           0.00%         0.00%      4.30%      0.00%        0.04%   0.00%            6.53%   0.85%       4.00%                  $5.90
+142                            Olay Regenerist  11.09%   29.06%  0.00%              0.39%             0.00%       0.00%     6.67%      6.28%      2.75%            9.51%           0.00%         0.00%     20.01%      0.00%        4.06%   0.00%            0.00%   3.04%       7.13%                  $5.78
+97                             Herbal Essences   0.00%   55.21%  0.00%              0.02%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     23.86%      0.00%        0.85%   0.00%            0.00%   3.91%      16.14%                  $5.62
+48                               Dawn Platinum  51.69%   27.22%  0.00%              0.00%             0.00%       0.38%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     14.72%      0.00%        0.22%   0.00%            0.02%   1.24%       4.50%                  $5.36
+196                         Swiffer Heavy Duty   0.00%   33.28%  0.00%              0.00%             0.00%      20.21%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     21.31%      0.00%        0.14%   0.00%           14.90%   1.17%       8.99%                  $5.34
+78                                        Gain   0.00%   11.17%  0.00%              0.16%             0.00%      35.49%     0.00%      0.00%      0.00%            0.00%          17.92%        26.40%      4.09%      0.00%        0.00%   0.00%            1.25%   1.48%       2.05%                  $5.24
+76                        Febreze Small Spaces   1.28%   46.25%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     26.34%      0.00%        0.18%   0.00%            8.04%   4.44%      13.47%                  $4.83
+233                    ZzzQuil Nighttime Sleep   3.56%   38.47%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     38.95%      0.00%        0.00%   0.00%            0.00%   3.74%      15.27%                  $4.66
+136                  Olay Cleansing & Renewing   0.00%   32.22%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     50.82%      0.00%        0.00%   0.00%            0.00%   1.95%      15.01%                  $4.65
+173                               Prilosec OTC   0.20%   64.58%  0.00%              0.00%             1.03%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     22.07%      0.00%        0.00%   0.00%            5.92%   1.51%       4.69%                  $4.55
+207                         Tide Free & Gentle   2.23%   25.38%  0.00%              0.00%             0.00%      57.69%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%      9.16%      0.00%        0.00%   0.00%            0.00%   0.30%       5.24%                  $4.32
+224                            Vicks VapoStick  24.65%   29.19%  0.00%              0.00%             0.00%      16.21%     0.00%      0.00%      0.00%            0.09%           0.00%         8.10%     16.72%      0.00%        0.13%   0.00%            2.44%   1.13%       1.33%                  $4.27
+93                       Head & Shoulders BARE   0.00%   27.31%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     24.22%      0.00%        0.00%   0.00%            8.44%   7.13%      32.90%                  $4.19
+82                                    Gillette   0.00%    0.00%  0.00%              0.14%             9.76%       0.03%     0.00%     36.18%      0.30%            7.93%           0.00%        45.13%      0.00%      0.00%        0.53%   0.00%            0.00%   0.00%       0.00%                  $4.12
+190                                      Sinex  16.61%   26.34%  0.00%              0.00%             0.00%      21.63%     0.00%      0.00%      0.00%            0.22%           0.00%        11.85%     12.53%      0.00%        0.14%   0.00%            0.71%   2.16%       7.82%                  $4.05
+62                                 Downy Light  19.23%   43.51%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            7.67%           0.00%         0.00%     13.84%      0.00%        0.44%   0.00%            8.35%   1.52%       5.45%                  $4.00
+54                              Dayquil Severe   7.18%   28.67%  0.00%              0.00%             0.00%      16.64%    33.30%      0.00%      0.00%            0.04%           0.00%         0.00%      9.96%      0.00%        0.03%   0.00%            2.44%   1.45%       0.28%                  $3.99
+234                              ZzzQuil Ultra   0.00%   48.44%  0.00%              0.00%             0.00%       4.94%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     27.79%      0.00%        0.00%   0.00%            8.42%   4.13%       6.28%                  $3.82
+221                             Vicks VapoCool  21.53%   36.97%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.17%           0.00%         0.00%     17.32%      0.00%        2.43%   0.00%            4.22%   5.43%      11.93%                  $3.79
+235                                    Zzzquil   5.92%   27.99%  0.00%              0.02%             1.70%      25.81%     0.00%      0.00%      0.00%            0.00%           0.00%         9.16%     20.87%      0.00%        0.00%   0.00%            0.00%   4.06%       4.48%                  $3.75
+212                                 Tide Ultra   7.10%   46.09%  0.00%             12.56%             0.00%       0.00%     0.00%      0.00%      0.00%            1.89%           0.00%         0.00%     13.14%      0.00%        0.10%   0.00%           18.41%   0.39%       0.32%                  $3.70
+109                   Metamucil Psyllium Fiber   0.00%   54.94%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     36.70%      0.00%        0.00%   0.00%            0.00%   3.40%       4.97%                  $3.48
+220                          Vicks Vapo Freeze   0.00%   38.85%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     47.04%      0.00%        0.00%   0.00%            0.00%   7.08%       7.04%                  $3.46
+5                                       Always   0.00%    7.02%  0.00%              1.20%             0.00%       0.00%     0.00%      0.63%      0.00%           22.92%           0.81%        40.41%      3.11%      0.00%       21.03%   0.00%            0.00%   1.38%       1.51%                  $3.45
+75                                Febreze Plug   1.84%   39.63%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     29.90%      0.00%        0.25%   0.00%            8.22%   3.95%      16.20%                  $3.41
+74                           Febreze Fade Defy   0.00%   47.67%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     33.03%      0.00%        0.00%   0.00%            4.55%   3.90%      10.85%                  $3.40
+71                            Febreze Air Mist   1.76%   27.40%  0.00%              0.00%             0.00%      47.89%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     13.58%      0.00%        0.00%   0.00%            4.23%   0.50%       4.63%                  $3.38
+103                            King C Gillette   0.00%   45.50%  0.00%              0.00%             0.00%       0.43%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     45.59%      0.00%        0.00%   0.00%            5.61%   1.45%       1.42%                  $3.33
+192                                    Swiffer   0.92%    0.85%  0.00%              0.02%             0.00%       0.00%     0.00%      0.00%      0.00%           27.83%           0.00%        63.65%      3.60%      0.00%        2.89%   0.00%            0.17%   0.08%       0.00%                  $3.31
+79                              Gain Fireworks   0.00%   47.38%  0.00%              0.00%             0.00%       0.90%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     17.24%      0.00%        0.00%   0.00%           11.67%   3.92%      18.88%                  $3.11
+208                                  Tide Pods   0.00%   57.98%  0.00%              0.00%             0.00%       0.03%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     11.47%      0.00%        0.00%   0.00%           22.93%   1.35%       6.24%                  $3.04
+15                                Always Ultra   0.00%   25.71%  0.00%              0.00%             0.00%      21.74%     0.00%      0.00%      0.00%            6.65%           0.00%         0.00%     16.78%      0.00%        2.65%   0.00%            8.87%   4.01%      13.61%                  $3.02
+107                            Metamucil Fiber   3.06%   47.89%  0.00%              0.86%             0.00%      14.57%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     24.00%      0.00%        0.92%   0.00%            0.00%   5.53%       3.17%                  $2.96
+3            Align Probiotic Digestive Support   0.00%   57.64%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     19.66%      0.00%        0.00%   0.00%            0.00%   5.78%      16.92%                  $2.92
+130                              Nyquil Severe  10.33%   44.70%  0.00%              0.00%             0.00%       0.30%     0.00%      0.00%      0.00%            0.05%           0.00%         0.00%     37.15%      0.00%        0.05%   0.00%            1.74%   3.97%       1.72%                  $2.88
+84                           Gillette Intimate   0.00%   50.63%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     38.65%      0.00%        0.18%   0.00%            4.97%   1.92%       3.65%                  $2.86
+42                                       Crest  83.36%    0.00%  0.00%              0.07%             6.39%       0.00%     0.00%      0.12%      0.00%            2.67%           0.00%         0.00%      0.00%      0.00%        7.39%   0.00%            0.00%   0.00%       0.00%                  $2.83
+171                               Pepto-Bismol  19.31%   12.38%  0.00%              0.02%             0.00%      37.19%     0.00%      0.08%      0.00%            0.32%           0.00%        18.63%      4.59%      0.00%        0.46%   0.00%            0.00%   1.84%       5.19%                  $2.78
+64                                  Downy Soft   0.00%   58.91%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     18.72%      0.00%        0.00%   0.00%            0.00%   4.07%      18.30%                  $2.77
+161                       Pampers Cruisers 360   0.00%   18.71%  0.00%              0.17%             0.00%       0.02%     0.00%     12.87%      0.15%           60.91%           0.00%         0.00%      1.93%      0.00%        5.25%   0.00%            0.00%   0.00%       0.00%                  $2.71
+158                                    Pampers   0.00%    0.00%  0.00%             10.70%             7.42%       0.00%     0.00%      8.37%     19.74%           45.34%           0.00%         0.00%      0.00%      0.00%        8.43%   0.00%            0.00%   0.00%       0.00%                  $2.68
+201                                     Tampax   0.00%    0.00%  0.00%              2.58%             0.00%      22.72%     0.00%      2.22%      0.00%            0.62%           0.00%        23.94%      0.00%      0.00%       47.92%   0.00%            0.00%   0.00%       0.00%                  $2.63
+174                           Procter & Gamble   0.00%    0.00%  0.00%              2.96%             0.00%       0.00%     0.00%      0.00%     18.68%           21.96%           0.50%        35.11%      0.00%      0.00%        1.24%  19.55%            0.00%   0.00%       0.00%                  $2.42
+164                          Pampers Sensitive   0.00%    0.00%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%           61.23%           0.00%         0.00%      0.00%      0.00%        8.05%   0.00%           30.71%   0.01%       0.00%                  $2.36
+183                                     Secret   0.00%    0.03%  0.00%              0.00%             0.00%       0.37%     0.00%      0.00%      0.00%            0.00%           0.26%        96.96%      0.59%      0.00%        0.00%   0.00%            0.00%   0.14%       1.65%                  $2.36
+110                            Mielle Organics  10.00%    4.70%  0.00%              1.19%             0.24%       0.00%     0.00%      1.11%     10.23%           41.13%           0.00%         0.00%     27.10%      0.00%        3.88%   0.35%            0.00%   0.06%       0.00%                  $2.34
+14                              Always Radiant   0.00%   21.90%  0.00%              0.08%             0.00%       0.00%     0.00%      0.16%      0.00%            8.79%           0.00%         0.00%     18.89%      0.00%       23.40%   0.00%           21.42%   3.72%       1.65%                  $2.26
+202                               Tampax Pearl   0.20%    0.00%  0.00%              0.10%             0.00%       0.00%     0.00%     13.05%      0.00%           24.05%           0.00%         0.00%      0.00%      0.00%       62.60%   0.00%            0.00%   0.00%       0.00%                  $2.15
+112                                   Mr Clean   0.00%    0.00%  0.00%              0.00%             0.00%       0.00%     0.00%     10.00%      0.00%           55.35%           0.00%        30.95%      0.00%      0.00%        3.69%   0.00%            0.00%   0.00%       0.00%                  $2.15
+185                   Secret Clinical Strength   0.00%   28.43%  0.00%              0.00%             0.00%      10.88%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     34.23%      0.00%        0.00%   0.00%            0.00%   2.34%      24.12%                  $1.97
+52                                DayQuil Kids  30.50%    0.00%  0.00%              0.00%             0.00%      65.03%     0.00%      3.75%      0.00%            0.35%           0.00%         0.00%      0.00%      0.00%        0.37%   0.00%            0.00%   0.00%       0.00%                  $1.79
+105                                  Metamucil   0.00%    0.00%  0.00%              2.22%             4.31%      48.53%     0.00%      0.00%      0.00%            0.11%           0.00%        39.39%      5.27%      0.00%        0.08%   0.00%            0.00%   0.10%       0.00%                  $1.67
+128                     NyQuil Severe Vapocool   0.00%    0.34%  0.00%              0.00%             0.00%      27.60%    70.29%      0.00%      0.00%            0.00%           0.00%         0.00%      0.71%      0.00%        0.00%   0.00%            0.00%   0.22%       0.83%                  $1.66
+106                     Metamucil 4-In-1 Fiber  68.94%    0.00%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.33%           0.00%         0.00%      0.00%      0.00%       30.73%   0.00%            0.00%   0.00%       0.00%                  $1.63
+13                                 Always Pure   0.00%   50.99%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     33.08%      0.00%        0.62%   0.00%            0.00%   8.05%       7.25%                  $1.61
+100               Herbal Essences Sulfate Free   0.00%   36.67%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     31.17%      0.00%        0.00%   0.00%            0.08%   5.36%      26.72%                  $1.60
+151                          Old Spice Swagger  29.89%   21.65%  0.00%              0.00%             0.00%       9.27%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%      0.00%      0.00%        0.23%   0.00%           38.85%   0.10%       0.00%                  $1.44
+65                                 Downy Ultra   1.44%   39.81%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     10.03%      0.00%        0.00%   0.00%           24.73%   2.35%      21.63%                  $1.42
+182                                  Safeguard   0.00%    0.00%  0.00%              0.00%             0.00%       0.00%   100.00%      0.00%      0.00%            0.00%           0.00%         0.00%      0.00%      0.00%        0.00%   0.00%            0.00%   0.00%       0.00%                  $1.26
+166                          Pampers Swaddlers   0.00%   41.21%  0.00%              2.43%             0.00%       0.00%     0.00%     17.46%      5.78%           20.53%           0.00%         0.00%      4.90%      0.00%        7.68%   0.00%            0.01%   0.00%       0.00%                  $1.25
+199                                Swiffer Wet   0.00%   57.95%  0.00%              0.00%             0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     29.25%      0.00%        0.00%   0.00%            0.00%   0.83%      11.96%                  $1.20
+
+
+7. Spend by Procter & Gamble Co brands on Local Radio
+
+                                        BRAND September Local Radio Spend ($M) Sept Local Radio % of Total Aug-Sept % Change Jul-Aug % Change
+23                      Downy Rinse & Refresh                            $0.79                      14.71%           -26.73%          -17.39%
+51                 Old Spice Gentlemans Blend                            $0.78                      18.75%           -18.86%          -19.48%
+73                         Tide Free & Gentle                            $0.77                      84.53%            -8.04%           -6.91%
+27                                Febreze Car                            $0.70                      20.44%             -3.5%          -11.44%
+47                                  Olay Body                            $0.70                      31.92%            74.47%           -4.47%
+24                          Downy Unstopables                            $0.67                      19.65%            -7.28%          -13.61%
+30                                Gain Flings                            $0.58                      17.44%           -10.84%           -6.62%
+62                          Secret Whole Body                            $0.57                      14.18%           -15.37%          -20.41%
+21                               DayQuil Kids                            $0.56                      59.22%             0.12%          887.78%
+28                                       Gain                            $0.55                      31.48%           -13.33%           -7.44%
+9                                      Bounce                            $0.54                      21.53%            -6.92%          -14.95%
+67                           Swiffer Powermop                            $0.49                      10.74%           -10.68%          -16.89%
+49                    Olay Indulgent Moisture                            $0.45                      38.02%            -0.63%          -28.09%
+63                                      Sinex                            $0.43                      17.95%             7.03%          853.61%
+22                             Dayquil Severe                            $0.42                      12.83%            68.95%                -
+26                           Febreze Air Mist                            $0.42                      46.93%           -35.95%           16.85%
+79                            Vicks VapoStick                            $0.38                      15.08%            36.77%           750.4%
+37                                  Metamucil                            $0.38                      50.56%            -3.29%          800.25%
+65                             Swiffer Duster                            $0.35                      13.96%           -20.98%          -27.15%
+11                                     Bounty                            $0.34                       4.79%            -5.24%            1.08%
+42                      Mr Clean Magic Eraser                            $0.34                       8.99%           -14.48%          -21.23%
+61                             Secret Outlast                            $0.31                      18.98%            -6.46%           14.49%
+55                               Pepto-Bismol                            $0.30                      45.37%            -8.08%          -18.87%
+45                     NyQuil Severe Vapocool                            $0.29                      19.54%             75.5%                -
+3   Align Yogurt Coated Probiotic Fruit Bites                            $0.29                      13.83%            10.16%          -12.62%
+33                         Gillette SkinGuard                            $0.28                      79.85%             4.96%           10.36%
+14                    Charmin Super Mega Roll                            $0.27                      100.0%            -4.71%           -16.3%
+66                         Swiffer Heavy Duty                            $0.26                       45.8%           -25.67%          -24.26%
+83                                    Zzzquil                            $0.25                      37.89%           -17.25%          -25.58%
+43                       Nervive Nerve Relief                            $0.23                      10.65%             -5.7%          -22.12%
+7                                Always Ultra                            $0.20                      27.74%            -8.68%           -7.05%
+70                                     Tampax                            $0.17                      14.58%           -16.04%           -3.13%
+34                             Gillette Venus                            $0.14                      10.27%           -18.14%          -11.46%
+15                              Charmin Ultra                            $0.12                        2.0%            15.21%          -18.27%
+60                   Secret Clinical Strength                            $0.12                      12.22%            23.47%        15962.33%
+25                                    Febreze                            $0.12                       4.91%            25.95%          -31.12%
+82                              ZzzQuil Ultra                            $0.11                       12.2%            34.33%                -
+78                           Vicks VapoShower                            $0.08                      100.0%              9.6%          406.05%
+52                          Old Spice Swagger                            $0.08                      11.98%            39.44%      4124060.09%
+2                             Align Probiotic                            $0.06                      100.0%             6.24%          -22.74%
+4                             Always Discreet                            $0.06                       1.97%           -35.97%          -13.23%
+68                            Swiffer Sweeper                            $0.03                       8.93%           -19.56%          -11.51%
+6                            Always Overnight                            $0.03                      100.0%            -23.3%          268.72%
+32                              Gillette Labs                            $0.03                       0.93%          2519.56%                -
+17                           Crest Pro-Health                            $0.02                       0.62%           -11.44%          -25.34%
+39                            Metamucil Fiber                            $0.01                       2.09%            33.54%          -97.52%
+36                            King C Gillette                            $0.01                        1.1%                 -          -100.0%
+48                       Olay Hyaluronic Acid                            $0.01                      100.0%            16.73%         4039.67%
+56                    Pepto-Bismol Fast Melts                            $0.01                        0.3%           578.36%         1314.56%
+75                      Vicks Childrens Sinex                            $0.01                      100.0%           -16.41%         7675.98%
+18                              Dawn Platinum                            $0.01                        0.3%            -28.6%           -2.05%
+58                                 Puffs Plus                            $0.00                       18.4%           -27.02%          -42.51%
+64                               Sinex Severe                            $0.00                      100.0%           -24.59%         2065.96%
+29                             Gain Fireworks                            $0.00                       0.19%           -10.82%           -92.8%
+13                                    Charmin                            $0.00                       0.02%           -45.15%          109.35%
+0                                       Align                            $0.00                       0.23%            -25.6%           -1.77%
+31                                   Gillette                            $0.00                       0.04%            16.96%          271.05%
+76                            Vicks Pure Zzzs                            $0.00                       0.29%           -19.68%            21.0%
+85                          Zzzquil Pure Zzzs                            $0.00                       0.12%            23.37%           18.53%
+44                 NyQuil High Blood Pressure                            $0.00                      100.0%          1349.82%           73.94%
+57                 Procter & Gamble Corporate                            $0.00                      10.99%           -63.47%          626.09%
+81                                       Zevo                            $0.00                        0.0%           -99.94%          -24.94%
+84                         Zzzquil Night Pain                            $0.00                      100.0%           -20.91%           27.34%
+80                                      Voost                            $0.00                      100.0%            15.38%           19.58%
+5                                Always Fresh                            $0.00                      100.0%           246.67%          -74.05%
+74                                  Tide Pods                            $0.00                       0.01%           -75.16%           -45.8%
+69                             Swiffer WetJet                            $0.00                        0.0%           -67.62%          144.19%
+1   Align Bloating Relief Plus Food Digestion                            $0.00                      100.0%            44.78%         1833.39%
+35                           Head & Shoulders                            $0.00                       3.36%          2248.99%          -97.62%
+54                                 Pepto Kids                            $0.00                       0.31%                 -          -100.0%
+20                DayQuil High Blood Pressure                            $0.00                      100.0%                 -             0.0%
+77                             Vicks VapoCool                            $0.00                        0.0%           -37.97%          -77.42%
+8                                       Bevel                            $0.00                       0.02%                 -             0.0%
+12                           Cascade Platinum                            $0.00                        0.0%              0.0%          -100.0%
+19                                 Dawn Power                            $0.00                        0.0%              0.0%          -100.0%
+16                                      Crest                            $0.00                        0.0%           -100.0%          -83.48%
+10                           Bounce Dryer Bar                            $0.00                        0.0%           -100.0%           16.67%
+41        Mielle Organics Pomegranate & Honey                            $0.00                        0.0%           -100.0%                -
+53                       Pampers Cruisers 360                            $0.00                        0.0%              0.0%          -100.0%
+50                                  Old Spice                            $0.00                        0.0%           -100.0%                -
+46                              Nyquil Severe                            $0.00                        0.0%           -100.0%                -
+40                            Mielle Organics                            $0.00                        0.0%           -100.0%                -
+38                     Metamucil 4-In-1 Fiber                            $0.00                        0.0%           -100.0%           -74.6%
+59                                     Secret                            $0.00                        0.0%           -100.0%          -41.69%
+71                                  This Is L                            $0.00                        0.0%           -100.0%                -
+72                                   Tide Evo                            $0.00                        0.0%              0.0%          -100.0%
+
+
+7. Spend by Procter & Gamble Co brands on Network Radio
+
+                   BRAND September Network Radio Spend ($M) Sept Network Radio % of Total Aug-Sept % Change Jul-Aug % Change
+19                Secret                              $0.85                        93.46%            18.55%           -1.91%
+21               Swiffer                              $0.77                        73.55%             8.08%           16.23%
+15             Olay Body                              $0.72                        32.98%            11.95%           -7.45%
+9               Gillette                              $0.71                        51.83%            24.16%           -0.38%
+7                Febreze                              $0.69                        28.63%             9.35%           15.16%
+18      Procter & Gamble                              $0.65                         44.1%           221.45%                -
+6                  Downy                              $0.59                         6.47%            57.62%            -5.3%
+1                 Always                              $0.51                        39.15%            15.98%           -0.55%
+4                Charmin                              $0.49                         15.0%            15.46%           -0.72%
+8                   Gain                              $0.45                        25.98%             9.81%          -21.06%
+10        Gillette Venus                              $0.42                        30.91%             7.68%            0.35%
+23                  Tide                              $0.31                         4.16%            32.51%           -2.31%
+28     Zzzquil Pure Zzzs                              $0.26                         63.5%              4.6%            4.38%
+0                  Align                              $0.26                        86.87%             33.6%           -3.66%
+20                 Sinex                              $0.26                        10.94%            20.71%                -
+3                 Bounty                              $0.26                         3.58%             9.23%            -1.3%
+11             Metamucil                              $0.25                        33.15%            18.61%            3.23%
+16             Old Spice                              $0.24                        82.24%             9.66%            9.63%
+22                Tampax                              $0.22                        18.63%            12.72%           -4.84%
+25       Vicks VapoStick                              $0.22                         8.75%            77.62%                -
+12              Mr Clean                              $0.21                        26.77%            -14.5%           21.09%
+2                 Bounce                              $0.20                         8.05%             44.1%           -8.01%
+24       Vicks Pure Zzzs                              $0.19                        99.71%            69.44%                -
+13  Nervive Nerve Relief                              $0.19                         8.84%            44.75%           -1.48%
+17          Pepto-Bismol                              $0.18                        26.91%            -4.13%           22.14%
+27               Zzzquil                              $0.14                        21.04%            20.96%           33.12%
+5                Dayquil                              $0.01                        88.24%           236.84%                -
+14                  OUAI                              $0.00                         0.16%                 -             0.0%
+26                  Zevo                              $0.00                          0.0%           -100.0%           -3.91%
+
+
+7. Spend by Procter & Gamble Co brands on Natl Spot Radio
+
+                   BRAND September Natl Spot Radio Spend ($M) September Natl Spot Radio % of Total Aug-Sept % Change Jul-Aug % Change
+6                   Gain                                $0.37                               21.03%            16.52%           20.43%
+5            Febreze Car                                $0.25                                7.14%            40.43%          -10.09%
+11                  Tide                                $0.23                                3.15%             8.79%            3.81%
+1                 Bounce                                $0.20                                7.91%                 -             0.0%
+0                 Always                                $0.03                                1.94%          1960.16%             0.0%
+4                   Dawn                                $0.01                                0.73%              0.0%            1.32%
+7   Olay Body Collection                                $0.00                               100.0%              0.0%             0.0%
+8              Old Spice                                $0.00                                0.95%            32.93%             0.0%
+10                Secret                                $0.00                                0.26%             25.0%             0.0%
+2                 Bounty                                $0.00                                0.03%             25.0%             0.0%
+13     Zzzquil Pure Zzzs                                $0.00                                0.18%           -20.43%             0.0%
+3                Charmin                                $0.00                                0.01%           -52.69%          -24.39%
+12                 Vicks                                $0.00                                0.27%                 -             0.0%
+9       Procter & Gamble                                $0.00                                 0.0%           -100.0%             0.0%
+
+
+8. Spend by Procter & Gamble Co categories across all platforms
+
+                                                                      CATEGORY July Spend ($M) August Spend ($M) September Spend ($M) Total 3-Month Spend ($M) Sept % of P&G Total Jul-Aug % Change Aug-Sept % Change
+0                                                    Bleach & Fabric Softeners          $15.64            $16.83               $20.33                   $52.80               8.85%            7.57%            20.80%
+1                                                Heavy Duty Laundry Detergents          $15.72            $19.12               $13.78                   $48.61               6.00%           21.64%           -27.91%
+2                                           Household Equipment & Utensils NEC          $12.66            $15.04               $11.96                   $39.67               5.21%           18.80%           -20.50%
+3                                                             Facial Skin Care           $8.51            $10.79               $10.51                   $29.81               4.57%           26.81%            -2.66%
+4                                                        Cold & Sinus Remedies           $0.20             $4.02               $10.28                   $14.50               4.48%         1912.20%           155.90%
+5                                                              Bathroom Tissue           $9.71             $9.61                $9.57                   $28.89               4.16%           -0.94%            -0.50%
+6                                 Solid & Roll-On Deodorants & Antiperspirants           $5.89             $8.96                $8.64                   $23.49               3.76%           52.16%            -3.50%
+7                         Non Medicated Shampoos, Conditioners & Rinses (Hair)           $7.65             $7.74                $7.97                   $23.36               3.47%            1.13%             2.98%
+8                                            Home Pest Controls & Insecticides           $6.98             $7.05                $7.90                   $21.94               3.44%            1.03%            12.08%
+9                                     Laundry Soaps & Preparations: Comb & NEC           $7.64             $7.86                $7.20                   $22.70               3.13%            2.85%            -8.43%
+10                                     Deodorizers, Air Fresheners & Purifiers           $6.04             $8.43                $6.90                   $21.38               3.01%           39.49%           -18.12%
+11                                                      Toothpaste & Whiteners          $10.74             $9.97                $6.90                   $27.62               3.00%           -7.20%           -30.78%
+12                                                   Digestive Aids & Antacids           $6.91             $6.82                $6.43                   $20.16               2.80%           -1.24%            -5.73%
+13                                                                Paper Towels           $7.69             $7.14                $6.19                   $21.03               2.70%           -7.18%           -13.28%
+14                                                   Medicated Shampoos (Hair)           $6.38             $8.51                $5.86                   $20.75               2.55%           33.35%           -31.10%
+15                                                      Dishwashing Detergents           $3.50             $6.03                $5.39                   $14.92               2.35%           71.95%           -10.47%
+16                                                   Bath Toiletries & Powders           $7.90             $7.51                $4.98                   $20.39               2.17%           -4.98%           -33.63%
+17                                                Feminine Sanitary Protection           $4.54             $4.95                $4.84                   $14.34               2.11%            9.10%            -2.23%
+18                                    Electric & Battery Operated Toothbrushes           $5.52             $5.38                $4.36                   $15.27               1.90%           -2.68%           -18.84%
+19                                                         Vitamins & Minerals           $7.36             $4.42                $3.76                   $15.54               1.63%          -39.93%           -15.09%
+20                                                      Cleaners/Cleansers NEC           $3.65             $4.30                $3.74                   $11.68               1.63%           17.90%           -13.00%
+21                                          Dishwasher Detergent, Liquid & Gel           $3.83             $5.99                $3.60                   $13.42               1.57%           56.25%           -39.94%
+22                              Cold, Cough, Sinus & Asthma Remdies:Comb & NEC           $1.53             $3.25                $3.58                    $8.36               1.56%          112.95%            10.11%
+23                                       Car & Truck Parts, Accessories & Kits           $4.09             $4.61                $3.44                   $12.14               1.50%           12.55%           -25.34%
+24                                              Shaving Equipment-Men & Unisex           $3.61             $2.81                $3.14                    $9.56               1.37%          -22.34%            11.80%
+25                                                 Adult Incontinence Products           $2.99             $3.49                $2.94                    $9.42               1.28%           16.67%           -15.78%
+26                              Deodorants & Antiperspirants General Promotion           $4.05             $3.05                $2.90                   $10.00               1.26%          -24.86%            -4.83%
+27                                                                   Laxatives           $3.94             $3.59                $2.89                   $10.41               1.26%           -8.97%           -19.56%
+28                                                  Sedatives & Sleep Products           $3.07             $3.91                $2.88                    $9.85               1.25%           27.44%           -26.37%
+29                                          Childrens Diapers & Training Pants           $2.18             $2.70                $2.56                    $7.44               1.11%           23.98%            -5.19%
+30                       Dishwasher & Dishwashing Detergents General Promotion           $1.75             $3.83                $2.55                    $8.13               1.11%          118.82%           -33.55%
+31  Skin Care Products, General Promotion/Multi-Category/Corporate/Sponsorship           $1.80             $0.98                $2.54                    $5.32               1.11%          -45.23%           158.28%
+32                                          Spray Deodorants & Antiperspirants           $1.48             $2.04                $2.36                    $5.88               1.03%           38.17%            15.65%
+33                               Drugs, Toiletries & Fitness General Promotion           $1.82             $2.03                $2.22                    $6.07               0.97%           11.41%             9.29%
+34                                             Cough Drops, Sprays & Medicines           $0.10             $1.48                $2.21                    $3.79               0.96%         1421.59%            49.21%
+35                                    Toiletries,Hygnc Gds&Skn Cr-Men:Comb&NEC           $2.33             $1.82                $2.17                    $6.31               0.94%          -22.04%            19.21%
+36                                                     Nutritional Supplements           $1.86             $1.77                $1.65                    $5.28               0.72%           -4.73%            -7.24%
+37                         Mens Shaving Equipment & Supplies General Promotion           $1.85             $1.74                $1.44                    $5.03               0.63%           -5.73%           -17.55%
+38                                            Dental Supplies: Comb Copy & NEC           $1.03             $1.28                $1.25                    $3.56               0.54%           23.95%            -2.40%
+39                                             Mouthwashes & Breath Fresheners           $1.61             $1.58                $1.11                    $4.31               0.49%           -1.61%           -29.61%
+40                                          Feminine Hygiene General Promotion           $0.82             $0.91                $1.06                    $2.79               0.46%           11.53%            16.07%
+41                                       Dishwasher Detergent, Powder & Tablet           $0.06             $0.25                $0.99                    $1.30               0.43%          287.32%           301.45%
+42                                        Household Paper Products: Comb & NEC           $0.87             $1.37                $0.99                    $3.22               0.43%           57.63%           -27.42%
+43                                                               Pain Remedies           $1.34             $1.14                $0.99                    $3.47               0.43%          -15.28%           -13.38%
+44                                               Personal Health & Hygiene NEC           $0.52             $0.79                $0.94                    $2.25               0.41%           50.61%            19.36%
+45                                                               Womens Razors           $3.07             $4.23                $0.93                    $8.23               0.40%           38.13%           -78.03%
+46                       Personal Care & Grooming Appliances General Promotion           $1.56             $0.85                $0.91                    $3.32               0.40%          -45.76%             7.60%
+47                                    Fine Fabric Washes,Stain Remvrs,Presoaks           $0.96             $1.30                $0.83                    $3.08               0.36%           35.02%           -35.95%
+48                                        Cleaners/Cleansers General Promotion           $0.85             $0.51                $0.79                    $2.15               0.35%          -40.60%            56.79%
+49                                    Cleaners,Clnsrs,Plshs(Spcl Use):Comb&NEC           $0.12             $0.21                $0.75                    $1.08               0.33%           69.92%           256.87%
+50                                            Bath Toiletries: Comb Copy & NEC           $0.67             $1.01                $0.75                    $2.42               0.33%           50.91%           -25.63%
+51                                                              Body Skin Care           $0.36             $0.40                $0.73                    $1.49               0.32%           10.19%            84.56%
+52                                                                  Bath Soaps           $0.09             $0.48                $0.70                    $1.26               0.30%          451.16%            46.43%
+53                    Cosmetics & Beauty Aids, Corporate Promotion/Sponsorship           $0.00             $0.00                $0.49                    $0.49               0.21%            0.00%                 -
+54                Household Detergents, Cleansers & Polishes General Promotion           $0.57             $0.57                $0.48                    $1.62               0.21%           -1.02%           -15.60%
+55                                            Deodorants & Antiperspirants NEC           $0.94             $0.97                $0.43                    $2.33               0.19%            2.71%           -55.50%
+56                                          Misc Merchandise General Promotion           $0.44             $0.14                $0.41                    $1.00               0.18%          -68.30%           193.63%
+57                                     Dishwasher & Dishwashing Detergents NEC           $4.15             $2.79                $0.39                    $7.33               0.17%          -32.78%           -85.83%
+58                                    Hair Pdts & Access-Wmn,M&W,Unsx:Comb&NEC           $1.25             $0.86                $0.37                    $2.48               0.16%          -31.31%           -57.45%
+59                                   Shampoos & Conditioners General Promotion           $0.77             $0.29                $0.20                    $1.27               0.09%          -61.82%           -30.25%
+60                                                   Vacuums & Electric Brooms           $0.00             $0.27                $0.19                    $0.46               0.08%                -           -27.69%
+61                                    Internet Commun,Cntnt Prvdrs,Prtls,Engns           $0.12             $0.15                $0.16                    $0.42               0.07%           24.55%             5.01%
+62                                                  Retailers: Comb Copy & NEC           $0.01             $0.03                $0.12                    $0.16               0.05%          121.88%           304.38%
+63                                                                Beauty Shops           $0.05             $0.07                $0.07                    $0.19               0.03%           20.71%             5.28%
+64                                               Sunscreens & Tanning Products           $0.53             $0.31                $0.07                    $0.90               0.03%          -41.89%           -78.73%
+65                                                              Facial Tissues           $0.54             $0.25                $0.02                    $0.82               0.01%          -53.61%           -92.00%
+66                                     Online & Mobile Beauty Supply Retailers           $0.00             $0.02                $0.02                    $0.04               0.01%          477.99%            14.91%
+67                                                     Bath & Kitchen Cleaners           $0.00             $0.01                $0.01                    $0.02               0.00%                -           -16.03%
+68                                                 Mens Hair Care Products NEC           $0.00             $0.00                $0.01                    $0.01               0.00%         -100.00%                 -
+69                                                   Corporate Advertising NEC           $0.11             $0.06                $0.00                    $0.18               0.00%          -43.59%           -95.68%
+70                                                      Electric Hair Trimmers           $0.00             $0.00                $0.00                    $0.00               0.00%            0.00%                 -
+71                                                   Small Appliances, Kitchen           $0.02             $0.00                $0.00                    $0.02               0.00%         -100.00%                 -
+72                                                Childrens Skin Care Products           $0.00             $0.00                $0.00                    $0.01               0.00%          -25.10%             3.20%
+73                                     Depilatories, Face & Body Hair Bleaches           $0.00             $0.00                $0.00                    $0.01               0.00%          229.59%             3.06%
+74                                              Floor & Furniture Polish & Wax           $0.02             $0.04                $0.00                    $0.06               0.00%           82.38%           -95.63%
+75                                     Womens Electric Shavers & Hair Removers           $0.00             $0.00                $0.00                    $0.00               0.00%          234.31%           -72.10%
+76                                       Men's Scents, Fragrances, Aftershaves           $0.00             $0.00                $0.00                    $0.00               0.00%           94.09%           -60.89%
+77                                        Home & Building-Direct Response: NEC           $0.53             $0.13                $0.00                    $0.66               0.00%          -74.78%           -99.93%
+78                                   Womens Shaving Supplies General Promotion           $0.00             $0.01                $0.00                    $0.02               0.00%          239.01%           -99.90%
+79                 Cosmetics & Beauty Aids, General Promotion & Multi-Category           $0.00             $0.00                $0.00                    $0.00               0.00%         -100.00%             0.00%
+80                                    Employment Recruitment: Clsfd/Excl Agate           $0.00             $0.00                $0.00                    $0.00               0.00%                -          -100.00%
+81                            Feminine Hygiene Corporate Promotion/Sponsorship           $0.00             $0.00                $0.00                    $0.00               0.00%            0.00%             0.00%
+82                                     Medical Appliances, Equipment & Devices           $0.00             $0.00                $0.00                    $0.00               0.00%                -          -100.00%
+83                                     Personal Care & Grooming Appliances NEC           $0.00             $0.00                $0.00                    $0.00               0.00%         -100.00%             0.00%
+84                                                       Shaving Supplies-Mens           $0.00             $0.00                $0.00                    $0.00               0.00%          157.55%          -100.00%
+85                                        Women's Scents, Fragrances, Perfumes           $0.00             $0.00                $0.00                    $0.00               0.00%         -100.00%             0.00%
+86                                                                       Total         $227.13           $252.82              $229.72                  $709.67             100.00%           11.31%            -9.14%
+
+
+9. Spend by parents on different media types
+
+                                 PARENT    AVOD B-to-B Magazines Cable TV Cinema Hispanic Magazines Hispanic Newspapers Internet - Display Internet - Search Local Magazines Local Radio Magazines Mobile App Mobile Web Mobile Web Video Natl Spot Radio Network Radio Network TV Newspapers Online Video Outdoor Span Lang Net TV Spot TV Sunday Magazines Syndication Parent Total Spend ($M)
+0                        PARENT UNKNOWN   1.35%            0.15%    2.89%  0.09%              0.00%               0.03%              5.47%            43.49%           0.14%       4.19%     0.00%      3.87%      4.76%            5.52%           1.04%         0.14%      1.00%      1.73%        2.05%   5.78%            0.21%  15.57%            0.00%       0.52%                $5187.06
+1                        Amazon.com Inc   5.07%            0.07%    6.47%  0.49%              0.00%               0.00%             12.63%            49.46%           0.00%       1.39%     0.01%      4.09%      4.66%            6.56%           0.10%         0.18%      3.67%      0.06%        2.17%   1.06%            1.01%   0.50%            0.00%       0.35%                $1229.58
+2                   Procter & Gamble Co   8.30%            0.00%   26.92%  0.01%              0.00%               0.00%              0.66%             0.87%           0.00%       6.80%     3.44%      3.31%      0.27%            8.44%           0.36%         3.76%     20.11%      0.00%        3.27%   0.10%            3.41%   2.29%            0.00%       7.67%                 $709.67
+3                      Progressive Corp   1.28%            0.07%   13.18%  0.49%              0.00%               0.00%              5.43%            44.01%           0.00%       1.44%     0.38%      2.00%      1.99%            2.77%           0.03%         2.09%     13.20%      0.00%        9.59%   0.05%            0.33%   0.53%            0.00%       1.12%                 $611.98
+4                           Expedia Inc   4.26%            0.00%    3.54%  1.55%              0.00%               0.00%              3.40%            80.80%           0.00%       0.01%     0.00%      0.11%      1.19%            0.07%           0.00%         0.00%      2.61%      0.00%        1.27%   0.00%            0.90%   0.22%            0.00%       0.05%                 $597.26
+5                         POLITICAL ADV   0.00%            0.00%    0.02%  0.00%              0.00%               0.00%              0.06%             0.00%           0.00%       0.51%     0.00%      0.23%      0.06%            0.00%           1.25%         0.00%      0.00%      0.05%        0.07%   0.79%            0.00%  96.96%            0.00%       0.00%                 $590.61
+6                          Comcast Corp   6.17%            0.07%   12.48%  0.04%              0.00%               0.00%              6.94%             9.59%           0.00%       3.35%     1.06%      3.58%      3.33%           12.94%           3.23%         0.04%     19.85%      0.16%        3.55%   3.68%            1.13%   8.82%            0.00%       0.00%                 $575.55
+7      Not Itemized-Digital Advertising   0.00%            0.00%    0.00%  0.00%              0.00%               0.00%             18.09%             0.00%           0.00%       0.00%     0.00%     16.06%     26.95%           29.82%           0.00%         0.00%      0.00%      0.00%        9.09%   0.00%            0.00%   0.00%            0.00%       0.00%                 $521.84
+8                           Walmart Inc   8.06%            0.00%    4.30%  0.25%              0.00%               0.00%              2.23%            62.44%           0.00%       0.29%     0.55%      2.89%      3.83%            5.67%           0.06%         0.00%      4.16%      0.01%        2.49%   0.51%            1.23%   0.13%            0.00%       0.92%                 $483.93
+9                Berkshire Hathaway Inc   6.50%            0.11%   13.10%  0.31%              0.00%               0.00%              1.24%            42.62%           0.07%       1.35%     0.23%      3.96%      1.19%            4.03%           0.85%         0.19%     15.48%      0.36%        2.35%   0.90%            1.13%   3.22%            0.00%       0.81%                 $420.88
+10                        Allstate Corp   2.41%            0.01%    4.37%  0.51%              0.00%               0.00%              0.49%            64.74%           0.00%       1.27%     0.00%      0.78%      0.11%            8.49%           0.66%         0.86%     11.41%      0.00%        1.56%   0.05%            0.79%   0.46%            0.00%       1.03%                 $417.28
+11                       Walt Disney Co   7.98%            0.43%   19.92%  0.54%              0.00%               0.00%              5.68%             3.57%           0.02%       0.91%     0.96%     10.20%      7.15%           14.10%           0.45%         0.11%     14.57%      0.09%        4.27%   5.74%            1.02%   1.98%            0.00%       0.32%                 $408.70
+12                           AbbVie Inc   8.95%            0.00%   33.13%  0.00%              0.00%               0.00%              1.72%             0.55%           0.00%       0.50%     0.00%      2.39%      1.98%            3.98%           0.01%         0.64%     29.81%      0.00%        3.37%   0.07%            0.00%   3.10%            0.00%       9.80%                 $407.20
+13                  Deutsche Telekom Ag   6.63%            0.00%   13.54%  0.00%              0.00%               0.00%              6.10%            22.10%           0.00%       3.91%     0.32%      5.56%      2.49%           10.71%           3.42%         0.87%     12.56%      0.50%        3.82%   1.59%            2.09%   2.46%            0.00%       1.32%                 $401.27
+14                 Booking Holdings Inc   4.26%            0.00%    3.71%  0.00%              0.00%               0.00%              1.91%            81.37%           0.00%       0.01%     0.00%      1.42%      1.08%            3.38%           0.00%         0.00%      2.27%      0.00%        0.59%   0.00%            0.00%   0.01%            0.00%       0.00%                 $391.69
+15           Verizon Communications Inc   7.09%            0.00%   20.66%  0.25%              0.00%               0.00%              5.97%            17.73%           0.00%       4.98%     0.00%      3.16%      5.94%            2.53%           2.92%         1.79%     16.69%      0.00%        0.78%   3.80%            2.88%   0.93%            0.00%       1.88%                 $382.34
+16                              Us Govt   4.76%            0.03%    7.34%  0.01%              0.00%               0.01%              8.49%            18.43%           0.00%       3.87%     1.58%      6.51%     12.71%           13.47%           1.26%         1.57%      4.36%      0.28%        3.47%   1.45%            0.97%   6.28%            0.00%       3.16%                 $309.76
+17                            Apple Inc   3.08%            0.14%    5.46%  0.00%              0.00%               0.00%              3.80%            13.83%           0.00%       0.67%     0.07%     20.84%     15.36%            9.94%           0.07%         0.00%     16.69%      0.11%        2.19%   5.20%            0.47%   1.76%            0.00%       0.32%                 $285.35
+18                    Toyota Motor Corp   8.67%            0.02%   13.07%  0.00%              0.00%               0.00%              3.63%             3.29%           0.01%       1.84%     0.53%      5.74%      4.26%            5.21%           0.01%         0.04%     28.99%      0.01%        2.13%   0.03%            3.07%  18.60%            0.00%       0.86%                 $282.42
+19                          Target Corp   3.80%            0.00%    5.55%  0.00%              0.00%               0.00%              3.00%            55.35%           0.00%       1.06%     0.15%      4.29%      2.84%            7.13%           0.01%         0.89%     12.25%      0.00%        1.68%   0.25%            0.99%   0.14%            0.00%       0.63%                 $265.91
+20                         Alphabet Inc   0.41%            0.01%    7.75%  1.88%              0.00%               0.00%             16.87%             0.00%           0.00%       0.05%     0.11%     16.52%     13.35%            5.21%           0.03%         0.20%     29.09%      0.43%        4.95%   0.81%            1.52%   0.65%            0.17%       0.00%                 $264.21
+21                             AT&T Inc   6.40%            0.04%   13.40%  0.00%              0.00%               0.00%              6.33%            32.29%           0.00%       1.30%     0.32%      4.08%      2.53%           10.90%           0.37%         0.18%     11.41%      0.00%        3.71%   0.91%            2.53%   3.25%            0.00%       0.03%                 $259.56
+22                 JP Morgan Chase & Co   1.64%            0.01%   24.43%  0.06%              0.00%               0.00%              3.55%            37.49%           0.01%       2.55%     0.00%      1.04%      1.08%            5.75%           0.89%         0.83%      9.71%      0.16%        5.26%   1.64%            0.60%   2.69%            0.00%       0.59%                 $253.71
+23                       NerdWallet Inc   0.00%            0.00%    0.39%  0.00%              0.00%               0.00%              1.41%            97.30%           0.00%       0.00%     0.00%      0.18%      0.11%            0.20%           0.00%         0.01%      0.30%      0.00%        0.11%   0.00%            0.00%   0.01%            0.00%       0.00%                 $231.32
+24                 Harris For President   0.04%            0.00%    2.05%  0.00%              0.00%               0.00%              0.10%             0.00%           0.00%       1.07%     0.00%      2.79%      0.10%            0.39%           4.51%         0.21%     10.48%      0.01%        1.22%   0.10%            0.02%  76.92%            0.00%       0.00%                 $226.53
+25           Capital One Financial Corp   9.62%            0.00%   10.09%  0.00%              0.00%               0.00%             10.01%            36.82%           0.00%       2.12%     3.25%      1.58%      3.80%            6.62%           1.52%         1.02%      8.67%      0.06%        1.41%   0.67%            1.10%   0.26%            0.12%       1.26%                 $223.70
+26                         Hyundai Corp   7.95%            0.05%    7.87%  0.87%              0.00%               0.00%              2.83%             1.02%           0.00%       0.85%     0.17%      3.04%     27.17%            6.80%           0.81%         0.71%     21.08%      0.04%        3.81%   0.19%            1.13%  13.61%            0.00%       0.00%                 $216.16
+27                         Unilever Plc  27.57%            0.01%   16.47%  0.00%              0.00%               0.00%              1.91%             1.59%           0.00%       0.04%     6.37%      5.73%      1.62%           18.67%           0.00%         0.04%      8.28%      0.00%        4.45%   0.70%            3.62%   1.00%            0.00%       1.91%                 $210.88
+28                  General Motors Corp   8.23%            0.45%    4.40%  2.36%              0.00%               0.00%             18.09%             3.18%           0.00%       0.58%     0.14%      2.31%      3.70%            7.62%           0.01%         0.35%     19.49%      0.00%        4.01%   0.27%            1.06%  22.81%            0.00%       0.95%                 $208.23
+29        State Farm Mutual Auto Ins Co   9.96%            0.00%    6.87%  0.00%              0.00%               0.00%              6.19%            24.92%           0.00%       2.27%     0.00%      9.83%      4.58%            9.00%           0.73%         2.23%     17.23%      0.00%        1.43%   1.96%            2.35%   0.35%            0.00%       0.09%                 $199.27
+30                  Roark Capital Group  17.30%            0.00%   24.08%  0.00%              0.00%               0.00%              2.00%             5.40%           0.00%       2.40%     0.00%      4.19%      3.96%           13.03%           2.15%         0.00%      8.78%      0.01%        1.71%   3.90%            1.65%   9.43%            0.00%       0.00%                 $197.15
+31                    General Mills Inc  17.34%            0.00%   33.76%  0.00%              0.00%               0.00%              1.24%             0.93%           0.00%       0.37%    10.74%      2.08%      0.22%           16.19%           0.00%         0.00%      7.83%      0.00%        1.54%   0.11%            1.23%   0.77%            0.00%       5.66%                 $186.52
+32                       Home Depot Inc   0.90%            0.01%    9.01%  0.00%              0.00%               0.00%              2.17%            66.82%           0.00%       4.99%     0.44%      0.99%      1.48%            1.96%           0.05%         1.20%      6.65%      0.00%        0.65%   0.17%            1.38%   1.12%            0.00%       0.00%                 $185.08
+33                           Intuit Inc  10.12%            0.00%    8.71%  0.27%              0.00%               0.00%              3.72%            47.60%           0.00%       0.09%     0.00%      4.20%      0.82%            7.70%           0.08%         0.05%     11.98%      0.00%        3.07%   1.04%            0.51%   0.05%            0.00%       0.00%                 $183.66
+34                     PDD Holdings Inc   0.00%            0.00%    0.00%  0.00%              0.00%               0.00%             12.36%            80.97%           0.00%       0.00%     0.00%      2.25%      3.90%            0.49%           0.00%         0.00%      0.00%      0.00%        0.03%   0.00%            0.00%   0.00%            0.00%       0.00%                 $182.83
+35                 Not Itemized-Loc Dlr   5.33%            0.25%    3.87%  0.22%              0.00%               0.01%              6.77%            25.07%           0.01%       5.18%     0.15%      3.23%     15.78%            5.88%           1.06%         0.04%      1.10%      1.60%        1.94%   6.79%            0.12%  15.58%            0.00%       0.00%                 $181.02
+36                          Wayfair Llc   7.46%            0.00%   11.88%  0.00%              0.00%               0.00%              1.11%            67.49%           0.01%       0.27%     0.61%      0.14%      2.27%            1.67%           0.31%         0.23%      5.52%      0.00%        0.90%   0.00%            0.00%   0.06%            0.00%       0.07%                 $177.95
+37                      Novo Nordisk AS   0.01%            0.00%   53.64%  0.00%              0.00%               0.00%              3.13%             0.37%           0.00%       0.01%     0.00%      1.39%      0.94%            0.85%           0.00%         0.00%     23.52%      0.00%        1.92%   0.02%            0.00%   5.79%            0.00%       8.40%                 $176.59
+38                      Best Buy Co Inc   1.38%            0.00%    1.06%  0.00%              0.00%               0.00%              7.29%            68.85%           0.01%       0.07%     4.13%      0.14%      2.45%            7.51%           0.08%         0.00%      4.44%      0.00%        2.23%   0.02%            0.01%   0.26%            0.00%       0.06%                 $171.80
+39                            Macys Inc   4.51%            0.00%   15.87%  0.00%              0.00%               0.00%              0.33%            49.06%           0.00%       4.75%     0.00%      0.17%      3.08%            0.37%           0.62%         2.18%     12.78%      0.08%        0.05%   0.30%            1.19%   2.00%            0.00%       2.67%                 $170.18
+40          Public Service Announcement   0.00%            0.00%   10.41%  0.00%              0.00%               0.00%              0.00%             0.00%           0.00%       0.00%     0.00%      0.00%      0.00%            0.00%           0.00%         0.00%     72.52%      0.03%        0.00%   0.00%            0.02%  17.02%            0.00%       0.00%                 $169.81
+41                  Nissan Motor Co Ltd   4.29%            0.05%   13.02%  0.07%              0.00%               0.00%              6.40%             5.42%           0.05%       3.14%     0.00%      4.06%      5.82%           15.69%           0.00%         0.75%      8.77%      0.00%        2.35%   0.09%            0.64%  28.94%            0.00%       0.46%                 $168.48
+42                  Glaxosmithkline Plc  11.76%            0.00%   28.37%  0.00%              0.00%               0.00%              1.77%             1.20%           0.00%       0.07%     0.11%      0.30%      1.16%            1.64%           0.30%         0.00%     27.90%      0.00%        2.63%   2.83%            7.62%   1.73%            0.00%      10.60%                 $167.60
+43                        Lowes Cos Inc   3.51%            0.00%   13.44%  0.00%              0.00%               0.00%              0.63%            42.10%           0.00%       7.34%     0.00%      4.29%      1.72%            0.50%           0.71%         3.82%     12.88%      0.00%        0.68%   0.08%            4.38%   1.40%            0.00%       2.52%                 $166.59
+44                            Nestle Sa  16.07%            0.03%   29.58%  0.00%              0.00%               0.00%              2.94%             5.04%           0.00%       0.02%    18.38%      0.22%      1.05%            2.93%           0.01%         0.00%     15.14%      0.00%        0.87%   1.52%            2.64%   1.40%            0.00%       2.16%                 $165.83
+45  LVMH Moet Hennessy Louis Vuitton SA  10.99%            0.00%    1.70%  0.00%              0.00%               0.00%              3.06%            28.48%           0.07%       0.21%    23.52%      4.54%      3.24%           13.35%           0.02%         0.00%      0.65%      2.20%        1.66%   4.48%            0.22%   0.09%            1.30%       0.22%                 $162.94
+46                          Pepsico Inc  12.87%            0.02%   43.52%  0.00%              0.00%               0.00%              1.48%             1.02%           0.00%       3.22%     0.24%      2.88%      2.24%            7.69%           1.23%         0.08%     15.08%      0.01%        1.99%   1.99%            1.09%   2.90%            0.00%       0.45%                 $162.49
+47                       Eli Lilly & Co  10.11%            0.00%   13.57%  0.39%              0.00%               0.00%              7.04%             0.74%           0.00%       0.00%     0.00%      1.55%     13.45%           13.57%           0.00%         0.00%     34.59%      0.99%        1.57%   0.26%            1.18%   0.94%            0.00%       0.04%                 $157.48
+48                        Stellantis NV  17.52%            0.00%   19.18%  0.27%              0.00%               0.00%             18.85%             3.60%           0.00%       0.64%     0.32%      0.90%      1.52%            2.15%           0.28%         0.00%     21.00%      0.00%        1.51%   0.18%            3.07%   4.57%            0.08%       4.36%                 $156.82
+49           Restaurant Brands Intl Inc  21.93%            0.00%   46.21%  0.00%              0.00%               0.00%              0.45%             0.16%           0.00%       0.72%     0.00%      2.06%      0.66%            2.61%           0.27%         0.59%     12.14%      0.00%        2.76%   0.81%            4.39%   4.23%            0.00%       0.01%                 $155.86
+50                                Total   2.91%            0.11%    5.26%  0.08%              0.00%               0.00%              2.81%            15.09%           0.04%       1.12%     1.01%      2.10%      2.59%            3.55%           0.38%         0.25%      3.79%      0.55%        1.50%   1.44%            0.43%   4.37%            0.02%       0.59%               $54041.68
+
+
+10. Spend by industry on different media types
+
+                                    Industry  AVOD % B-to-B Magazines % Cable TV % Cinema % Hispanic Magazines % Hispanic Newspapers % Internet - Display % Internet - Search % Local Magazines % Local Radio % Magazines % Mobile App % Mobile Web % Mobile Web Video % Natl Spot Radio % Network Radio % Network TV % Newspapers % Online Video % Outdoor % Span Lang Net TV % Spot TV % Sunday Magazines % Syndication % Total Spend ($M)
+0                                     Retail   3.33%              0.06%      4.43%    0.02%                0.00%                 0.01%                6.05%              53.96%             0.04%         2.43%       1.07%        3.64%        5.02%              5.40%             0.64%           0.65%        1.91%        0.86%          2.21%     2.10%              0.34%     5.51%              0.01%         0.31%         $6996.80
+1                 Misc Services & Amusements   3.79%              0.31%      6.23%    0.04%                0.00%                 0.02%                4.43%              24.45%             0.32%         5.27%       1.12%        5.07%        5.19%              5.78%             1.22%           0.28%        3.28%        3.85%          2.77%     9.45%              0.39%    15.90%              0.02%         0.81%         $5025.22
+2                        Media & Advertising   5.42%              0.22%     10.37%    0.28%                0.00%                 0.00%                6.60%              36.78%             0.03%         3.01%       1.15%        6.05%        5.66%              8.99%             0.23%           0.33%        6.37%        0.39%          3.08%     2.60%              0.76%     1.35%              0.07%         0.25%         $3794.43
+3                    Insurance & Real Estate   3.60%              0.10%      9.14%    0.18%                0.00%                 0.01%                3.34%              48.21%             0.21%         1.60%       0.71%        3.19%        2.45%              4.08%             0.68%           0.76%        9.40%        1.24%          3.06%     1.93%              0.71%     3.81%              0.03%         1.55%         $3533.62
+4                                  Financial   5.22%              0.12%      9.09%    0.03%                0.00%                 0.03%                6.98%              40.20%             0.02%         2.28%       0.75%        3.67%        4.09%              6.02%             0.88%           0.65%        7.35%        3.45%          3.13%     1.97%              0.40%     3.33%              0.01%         0.34%         $3491.08
+5       Government, Politics & Organizations   1.08%              0.11%      3.42%    0.13%                0.00%                 0.02%                3.33%               4.75%             0.04%         2.03%       0.95%        3.73%        3.19%              5.17%             2.08%           0.39%        6.51%        0.96%          2.01%     3.45%              0.11%    56.15%              0.00%         0.40%         $3216.10
+6           Medicines & Proprietary Remedies   9.69%              0.03%     31.44%    0.02%                0.00%                 0.00%                3.14%               4.96%             0.00%         0.84%       1.39%        1.68%        4.15%              4.71%             0.31%           0.83%       22.60%        0.01%          2.39%     0.09%              1.30%     3.15%              0.00%         7.27%         $2724.42
+7    Public Transportation, Hotels & Resorts   4.23%              0.41%      4.12%    0.45%                0.00%                 0.00%                5.15%              48.21%             0.21%         1.07%       7.73%        3.34%        3.60%              5.52%             0.40%           0.04%        4.44%        0.86%          2.52%     3.36%              0.45%     3.65%              0.06%         0.17%         $2658.78
+8      Automotive, Automotive Access & Equip   6.96%              0.21%     10.58%    0.38%                0.00%                 0.00%                7.97%               8.64%             0.01%         1.17%       0.57%        5.28%        7.29%              7.57%             0.45%           0.18%       14.87%        0.03%          4.39%     0.66%              1.74%    20.42%              0.01%         0.61%         $2216.59
+9                             Communications   5.10%              0.02%     12.44%    0.41%                0.00%                 0.00%                6.63%              20.01%             0.00%         3.42%       0.68%        3.75%        4.03%              7.81%             2.57%           0.69%       15.57%        0.19%          2.90%     2.46%              2.30%     7.91%              0.02%         1.09%         $2155.42
+10                               Restaurants  17.63%              0.01%     24.44%    0.28%                0.00%                 0.00%                1.49%               6.16%             0.09%         2.54%       0.04%        4.03%        1.59%              9.79%             0.95%           0.58%       11.53%        0.14%          3.40%     4.84%              2.31%     7.62%              0.00%         0.54%         $1828.55
+11         Computers, Software, Internet NEC   2.68%              0.18%      4.20%    0.23%                0.00%                 0.00%               15.20%              30.04%             0.00%         0.88%       0.35%        7.63%       13.23%              9.42%             0.20%           0.22%        5.78%        0.36%          6.63%     1.92%              0.27%     0.51%              0.00%         0.07%         $1775.19
+12      Discount Department & Variety Stores   3.62%              0.00%      3.27%    0.36%                0.00%                 0.00%                9.12%              61.64%             0.00%         0.34%       0.19%        3.20%        4.26%              5.68%             0.11%           0.18%        3.64%        0.01%          1.94%     0.56%              0.90%     0.46%              0.00%         0.53%         $1654.47
+13             Automotive Dealers & Services   2.23%              0.06%      5.00%    0.04%                0.00%                 0.01%                5.51%              40.67%             0.01%         4.29%       0.02%        4.90%       10.70%              4.87%             0.67%           0.07%        2.16%        0.73%          2.68%     4.27%              0.21%    10.33%              0.00%         0.57%         $1422.93
+14                  Schools, Camps, Seminars   1.90%              0.48%      4.46%    0.04%                0.00%                 0.01%                5.09%              56.45%             0.10%         1.32%       0.38%        4.81%        4.22%              7.71%             0.39%           0.23%        1.39%        0.57%          2.76%     4.38%              0.28%     2.82%              0.01%         0.21%         $1222.62
+15                               General NEC   0.53%              0.19%      1.30%    0.00%                0.00%                 0.01%               17.85%               1.07%             0.01%         0.11%       0.48%       14.50%       26.23%             25.70%             0.02%           0.01%        2.48%        0.37%          7.73%     1.15%              0.03%     0.25%              0.00%         0.00%          $635.38
+16  Building Materials, Equipment & Fixtures   6.68%              0.83%      9.05%    0.06%                0.00%                 0.00%                6.48%              26.06%             0.03%         0.64%       4.22%        3.58%       17.34%             11.82%             0.30%           0.51%        3.21%        1.95%          3.64%     0.58%              0.01%     2.54%              0.10%         0.37%          $590.16
+17                  Games, Toys & Hobbycraft  15.64%              0.00%     11.75%    0.19%                0.00%                 0.00%                4.16%               8.95%             0.00%         1.56%       0.07%        7.25%        3.46%             13.35%             1.87%           1.60%       12.46%        0.03%          7.05%     1.80%              0.26%     7.92%              0.00%         0.62%          $510.22
+18  Personal Hygiene & Health-Wmn,M&W,Unisex  13.75%              0.04%     27.12%    0.01%                0.00%                 0.00%                1.73%               4.89%             0.00%         2.41%       4.78%        4.56%        1.12%             12.25%             0.11%           1.70%       12.75%        0.02%          4.19%     0.10%              3.19%     1.64%              0.00%         3.64%          $470.88
+19                         Department Stores   4.13%              0.00%     11.19%    0.00%                0.00%                 0.00%                3.11%              54.48%             0.00%         2.71%       1.55%        1.11%        2.12%              2.75%             0.30%           1.51%        9.82%        0.69%          0.57%     0.40%              1.14%     1.17%              0.05%         1.18%          $449.39
+20       Dairy, Produce, Meat & Bakery Goods  23.87%              0.17%     30.30%    0.03%                0.00%                 0.00%                2.37%               0.80%             0.01%         0.62%       3.59%        1.68%        3.05%             14.89%             0.11%           0.02%        5.94%        0.08%          2.58%     1.08%              1.98%     4.37%              0.00%         2.48%          $440.85
+21                   Cosmetics & Beauty Aids  17.60%              0.05%     13.29%    0.00%                0.00%                 0.00%                3.12%              16.11%             0.00%         0.12%       7.32%        3.76%        4.20%             11.88%             0.66%           0.01%       10.03%        0.10%          3.06%     2.19%              2.42%     1.32%              0.21%         2.57%          $412.90
+22                                 Beverages  22.45%              0.10%     21.79%    0.00%                0.00%                 0.00%                1.97%               4.83%             0.03%         2.13%       0.51%        5.80%        2.14%             11.79%             0.93%           0.39%       12.85%        0.02%          3.17%     3.65%              1.65%     3.05%              0.00%         0.75%          $386.85
+23                 Business & Technology NEC   7.21%              0.43%      6.44%    0.28%                0.00%                 0.01%                7.84%              31.35%             0.01%         5.55%       0.46%        5.63%        6.85%              5.32%             1.25%           1.84%        8.49%        1.05%          2.45%     2.13%              1.06%     4.13%              0.00%         0.23%          $384.58
+24                Pets, Pet Foods & Supplies   8.23%              0.02%     31.95%    0.02%                0.00%                 0.00%                2.72%              13.49%             0.00%         0.38%      12.28%        1.68%        4.28%              2.78%             0.11%           0.44%       14.26%        0.00%          1.87%     0.07%              0.48%     2.67%              0.00%         2.27%          $370.06
+25                               Beer & Wine  11.76%              0.02%     28.30%    0.15%                0.00%                 0.00%                2.40%               0.54%             0.01%         2.63%       2.18%        2.82%        1.45%              3.29%             2.27%           0.21%       22.10%        0.29%          1.55%     8.23%              8.01%     1.66%              0.12%         0.00%          $368.21
+26       Household Furnishings & Accessories   7.86%              0.83%     12.72%    0.00%                0.00%                 0.00%                4.42%              39.59%             0.03%         0.33%       7.19%        2.26%        4.41%             12.25%             0.15%           0.47%        1.23%        0.32%          3.44%     0.13%              0.05%     1.59%              0.42%         0.27%          $363.70
+27                    Confectionery & Snacks  25.33%              0.09%     34.70%    0.57%                0.00%                 0.00%                0.89%               0.42%             0.01%         0.25%       3.21%        1.69%        0.39%             14.24%             0.24%           0.00%        9.95%        0.00%          1.96%     0.44%              1.75%     1.12%              0.00%         2.74%          $349.87
+28                 Direct Response Companies   0.70%              0.27%     25.41%    0.00%                0.00%                 0.00%                1.10%               0.59%             0.01%         0.92%      15.00%        0.40%        0.09%              0.78%             0.00%           0.53%       13.20%        5.19%          0.99%     0.00%              1.98%    16.81%              0.07%        15.96%          $349.20
+29                               Apparel NEC   3.92%              0.02%      3.37%    0.05%                0.00%                 0.00%                4.17%              27.21%             0.04%         0.05%      25.18%        2.93%        3.48%             11.02%             0.13%           0.04%        6.79%        1.63%          2.87%     5.64%              0.00%     0.44%              1.00%         0.02%          $334.99
+30     Household Soaps, Cleansers & Polishes   9.91%              0.01%     30.45%    0.00%                0.00%                 0.00%                1.11%               0.80%             0.00%         4.98%       1.10%        4.98%        0.58%             15.54%             1.05%           1.53%       13.52%        0.02%          1.95%     0.15%              3.41%     2.40%              0.00%         6.51%          $306.20
+31                        Household Supplies  10.86%              0.07%     35.19%    0.10%                0.00%                 0.00%                2.54%               5.40%             0.00%         3.55%       2.75%        3.10%        2.61%              6.53%             0.04%           2.24%       12.01%        0.00%          3.47%     0.12%              1.28%     2.80%              0.00%         5.34%          $304.06
+32                          Misc Merchandise   2.60%              0.41%      3.20%    0.00%                0.00%                 0.00%               11.40%              33.58%             0.04%         0.06%       2.66%        8.50%       12.25%             17.35%             0.03%           0.05%        0.13%        0.15%          5.22%     2.20%              0.00%     0.17%              0.00%         0.00%          $247.30
+33   Manufactrg: Mtrls&Equip/Freight/Ind Dev   2.50%              4.53%      8.27%    0.00%                0.00%                 0.00%               12.84%              32.74%             0.01%         1.80%       2.43%        3.14%       11.15%              6.94%             0.58%           0.04%        4.10%        1.15%          4.54%     1.76%              0.19%     1.03%              0.19%         0.08%          $235.48
+34    Household Appliances, Equip & Utensils   6.19%              0.77%     14.11%    0.18%                0.00%                 0.00%                6.33%              25.77%             0.03%         2.81%       5.43%        2.89%        6.55%             13.96%             0.03%           1.36%        5.06%        0.17%          4.15%     0.21%              1.02%     0.95%              0.29%         1.77%          $234.38
+35                            Sporting Goods   3.84%              0.01%      6.22%    0.00%                0.00%                 0.00%                6.66%              42.02%             0.00%         0.22%       6.61%        6.81%        7.96%              9.18%             0.02%           0.41%        4.42%        0.08%          3.25%     0.59%              0.00%     0.98%              0.10%         0.59%          $232.88
+36                     Pharmaceutical Houses   7.33%              0.03%     17.56%    0.62%                0.00%                 0.00%                5.21%               3.16%             0.00%         5.54%       0.08%        2.26%        6.84%              6.64%             0.38%           0.02%       27.53%        0.83%          2.74%     3.26%              1.44%     3.28%              0.00%         5.23%          $222.90
+37                            Prepared Foods  25.44%              0.09%     33.50%    0.00%                0.00%                 0.00%                1.16%               1.30%             0.00%         0.43%       4.87%        1.91%        0.74%             13.58%             0.06%           0.01%        7.80%        0.00%          1.77%     0.33%              2.88%     1.97%              0.00%         2.16%          $212.60
+38     Eye Glasses, Medical Equip & Supplies   8.92%              0.02%     20.90%    0.00%                0.00%                 0.00%                5.73%              21.45%             0.00%         1.30%       3.55%        4.60%        8.91%              5.96%             0.63%           0.53%        6.36%        0.98%          2.06%     1.08%              0.28%     3.30%              0.00%         3.42%          $202.55
+39                         Jewelry & Watches   6.59%              0.93%      2.05%    0.01%                0.00%                 0.00%                5.71%              15.64%             0.49%         0.01%      34.68%        3.08%        6.54%              5.05%             0.00%           0.01%        3.65%        5.44%          1.63%     4.55%              0.37%     0.82%              2.24%         0.51%          $189.78
+40     Hair Products & Access-Wmn,M&W,Unisex   5.27%              0.07%     21.81%    0.00%                0.00%                 0.00%                1.98%              21.11%             0.00%         2.16%       2.91%        1.32%        2.13%             11.99%             0.31%           0.03%       13.59%        0.00%          3.55%     0.76%              3.73%     1.71%              0.00%         5.58%          $184.80
+41                                  Footwear   7.76%              0.06%     14.06%    0.17%                0.00%                 0.00%               15.98%              18.57%             0.25%         1.27%      14.04%        1.42%        3.51%              5.80%             0.07%           1.50%        4.41%        1.25%          2.38%     1.26%              0.96%     0.96%              0.19%         4.13%          $179.47
+42    Ready-To-Wear, Formalwear & Bridalwear   2.29%              0.34%     14.30%    3.46%                0.00%                 0.00%                4.47%              24.33%             0.02%         0.20%       5.20%        1.32%        2.56%              5.00%             0.21%           0.27%       28.76%        0.35%          2.51%     0.67%              1.32%     1.06%              0.75%         0.58%          $140.47
+43                                    Liquor  32.23%              0.11%     21.70%    0.00%                0.00%                 0.00%                1.69%               1.99%             0.15%         1.32%       1.68%        2.13%        4.52%              6.16%             1.41%           0.00%        7.89%        0.38%          4.84%     8.47%              1.74%     1.47%              0.09%         0.03%          $130.27
+44        Audio & Video Equipment & Supplies   6.47%              0.19%      6.94%    1.36%                0.00%                 0.00%                9.29%              15.65%             0.02%         2.56%       0.21%        7.65%        7.77%             12.29%             0.30%           0.21%       17.43%        0.17%          4.96%     2.62%              0.32%     2.77%              0.00%         0.83%          $109.52
+45            Fitness & Diet Programs & Spas   7.90%              0.00%     17.48%    0.01%                0.00%                 0.01%                5.56%              24.02%             0.06%         4.28%       0.28%        9.75%        2.69%              6.57%             1.72%           0.09%        2.05%        0.61%          5.14%     3.85%              0.03%     7.38%              0.00%         0.53%          $106.57
+46                    Horticulture & Farming   2.72%             15.15%      6.98%    0.00%                0.00%                 0.00%               11.16%              11.21%             0.00%         0.74%       1.43%        5.49%       26.93%              5.75%             0.43%           0.00%        2.81%        0.12%          3.08%     1.67%              0.00%     3.33%              0.00%         0.99%           $94.86
+47           Ingredients, Mixes & Seasonings  19.97%              0.85%     22.86%    0.00%                0.00%                 0.00%                3.17%               2.36%             0.00%         1.75%      10.66%        4.12%        3.03%              8.83%             0.01%           0.14%        8.28%        0.43%          4.64%     1.17%              4.62%     2.51%              0.00%         0.59%           $81.68
+48         Food & Beverages: Comb Copy & NEC   7.25%              0.19%     15.43%    0.00%                0.00%                 0.00%                5.47%               2.27%             0.02%         0.14%       0.15%        4.99%        8.75%             28.42%             0.84%           0.07%        6.54%        0.03%          5.29%    10.79%              1.51%     1.36%              0.00%         0.47%           $70.65
+49      Gasoline, Lubricants (Trans) & Fuels  11.49%              1.02%      6.51%    0.03%                0.00%                 0.00%                3.20%              15.71%             0.00%         6.31%       1.07%       11.49%        2.57%              8.36%             5.14%           2.82%        3.46%        0.48%          5.46%     5.95%              0.00%     8.12%              0.00%         0.80%           $66.36
+50      Shopping Centers & Catalog Showrooms   7.51%              0.03%     11.38%    0.02%                0.00%                 0.01%               11.83%              32.41%             1.04%         1.61%       0.58%        4.85%        4.49%              4.78%             1.06%           0.00%        1.65%        0.30%          5.29%     6.16%              1.46%     3.14%              0.37%         0.00%           $58.33
+51  Toiletries, Hygienic Gds & Skin Care-Men   6.73%              0.00%     32.21%    0.08%                0.00%                 0.00%                1.16%              14.43%             0.00%         6.09%       0.00%        0.89%        0.41%              9.09%             0.01%           2.23%       16.49%        0.00%          2.24%     0.04%              4.19%     1.39%              0.00%         2.33%           $55.88
+52                       Apparel Accessories  10.93%              0.00%      2.43%    0.00%                0.00%                 0.00%                8.56%              40.14%             0.07%         0.85%      12.27%        2.23%        3.96%              9.49%             0.00%           0.00%        0.90%        1.12%          3.66%     0.29%              0.17%     0.07%              2.84%         0.02%           $54.97
+53                   Underclothing & Hosiery   7.48%              0.00%     19.45%    0.00%                0.00%                 0.00%                4.11%              35.43%             0.00%         0.88%       3.40%        1.84%        2.09%             13.28%             0.00%           0.28%        3.04%        0.00%          7.42%     1.00%              0.12%     0.18%              0.00%         0.00%           $53.78
+54     Office Machines, Furniture & Supplies   3.53%              0.53%     13.18%    0.00%                0.00%                 0.00%                3.73%              47.17%             0.00%         0.20%       3.20%        2.80%        3.93%             11.54%             0.00%           0.75%        1.03%        0.13%          6.84%     0.30%              0.00%     0.99%              0.00%         0.15%           $51.55
+55         Cigarettes, Tobacco & Accessories   0.01%              3.77%      0.00%    0.00%                0.00%                 0.00%                1.03%               0.67%             0.10%         1.87%      63.21%        1.93%        1.51%             13.11%             3.12%           0.00%        0.00%        2.50%          1.79%     5.37%              0.00%     0.00%              0.00%         0.00%           $31.78
+56   Drugs, Toiletries & Fitness: Comb & NEC  26.64%              0.19%      0.75%    0.00%                0.00%                 0.00%                6.20%              20.77%             0.00%         0.01%       0.00%        7.54%        5.40%              7.08%             0.82%          15.10%        0.04%        0.02%          3.98%     4.90%              0.00%     0.09%              0.00%         0.45%           $28.81
+57                   Aviation (Excl Freight)   0.00%              0.74%      2.26%    0.00%                0.00%                 0.00%               17.31%               4.35%             0.15%         1.37%       9.59%        8.59%       15.79%              2.88%             0.39%           0.00%        0.44%       10.05%          5.93%     8.62%              0.00%    11.55%              0.00%         0.00%           $18.84
+58          Home & Building: Comb Copy & NEC   0.00%              5.88%      0.00%    0.00%                0.00%                 0.00%                1.98%              50.66%             0.00%         0.36%       0.00%        0.00%        3.28%             10.80%             0.43%           0.00%        0.00%        0.00%          0.84%    25.55%              0.00%     0.21%              0.00%         0.00%            $1.11
+59   Misc Svc,Amuse,Retail,Dir Resp:Comb&NEC   0.00%              0.00%      0.00%    0.00%                0.00%                 0.00%                0.00%               0.00%            82.05%         0.00%      17.95%        0.00%        0.00%              0.00%             0.00%           0.00%        0.00%        0.00%          0.00%     0.00%              0.00%     0.00%              0.00%         0.00%            $0.23
+60               Transportation & Travel NEC   0.00%              0.00%      0.00%    0.00%                0.00%                 0.00%                0.72%               0.00%             0.00%        17.89%       0.00%        0.00%        0.00%              0.00%             0.00%           0.00%        0.00%        0.00%          0.00%    81.39%              0.00%     0.00%              0.00%         0.00%            $0.17
+61                                     Total   5.82%              0.21%     10.51%    0.16%                0.00%                 0.01%                5.63%              30.17%             0.08%         2.24%       2.03%        4.20%        5.18%              7.10%             0.76%           0.50%        7.58%        1.10%          3.01%     2.89%              0.86%     8.74%              0.05%         1.18%        $54041.68
+
+
+Spend by Procter & Gamble Co brands on iHeartMedia Inc
+
+                                         Brand  Total Spend ($)  Radio Spend ($)  iHeart Total Spend ($)  iHeart % of Total  iHeart Radio Spend ($)  iHeart % of Radio
+31                       Downy Rinse & Refresh       13,185,253        3,188,784               2,124,803                 16               2,124,803                 67
+0                                  Febreze Car       12,136,371        2,869,135               1,483,701                 12               1,483,701                 52
+52                          Tide Free & Gentle        4,324,199        2,494,751               1,465,293                 34               1,465,293                 59
+182                 Old Spice Gentlemans Blend       10,737,947        2,944,022               1,277,149                 12               1,277,149                 43
+56                           Downy Unstopables       10,449,848        2,219,330               1,257,094                 12               1,257,094                 57
+42                                 Gain Flings       12,197,893        1,917,721               1,156,682                 10               1,156,682                 60
+24                                      Bounce        7,254,876        2,514,988               1,145,850                 16               1,145,369                 46
+183                          Secret Whole Body       12,904,362        2,107,943               1,143,402                  9               1,143,402                 54
+22                                        Gain        5,243,584        4,184,935               1,112,304                 21               1,112,304                 27
+67                            Febreze Air Mist        3,382,004        1,619,549               1,040,709                 31               1,040,709                 64
+5                             Swiffer Powermop       15,502,893        1,701,056                 840,301                  5                 840,301                 49
+4                           Swiffer Heavy Duty        5,337,435        1,078,700                 726,729                 14                 726,729                 67
+3                               Swiffer Duster        7,157,376        1,399,194                 669,364                  9                 669,364                 48
+13                       Mr Clean Magic Eraser       11,682,262        1,228,584                 651,880                  6                 651,880                 53
+132                                  Olay Body        6,834,710        3,585,801                 649,824                 10                 649,824                 18
+85                                       Sinex        4,050,776        1,356,233                 569,777                 14                 569,777                 42
+89                                DayQuil Kids        1,794,694        1,167,100                 544,348                 30                 544,348                 47
+11                                        Zevo       22,477,423        1,441,671                 502,762                  2                 502,762                 35
+97                                Pepto-Bismol        2,782,608        1,553,307                 485,353                 17                 485,353                 31
+103                                  Metamucil        1,665,966        1,464,675                 463,002                 28                 463,002                 32
+81                              Dayquil Severe        3,985,610          663,366                 440,003                 11                 440,003                 66
+122                       Nervive Nerve Relief        8,228,457        1,223,500                 390,596                  5                 390,596                 32
+93                             Vicks VapoStick        4,270,011        1,038,014                 384,562                  9                 384,562                 37
+94                                     Zzzquil        3,746,907        1,310,208                 356,271                 10                 356,271                 27
+84                      NyQuil Severe Vapocool        1,664,757          459,528                 298,639                 18                 298,639                 65
+100  Align Yogurt Coated Probiotic Fruit Bites        6,196,825          856,198                 280,839                  4                 280,839                 33
+105                            Metamucil Fiber        2,955,753          430,510                 203,673                  7                 203,673                 47
+120                            Align Probiotic          189,954          183,542                 144,317                 76                 144,317                 79
+159                          Old Spice Swagger        1,435,268          133,113                 132,054                  9                 132,054                 99
+65                                     Febreze        6,293,860        2,206,066                 124,435                  2                 124,435                  6
+169                    Olay Indulgent Moisture        5,896,919        1,526,673                  69,860                  1                  69,860                  5
+167                           Vicks VapoShower          191,150          176,474                  66,506                 35                  66,506                 38
+230                         Gillette SkinGuard        1,011,120          794,183                  40,598                  4                  40,598                  5
+61                               Charmin Ultra       18,264,427          352,583                  38,037                  0                  38,037                 11
+145                             Gillette Venus        9,433,909        1,685,963                  30,884                  0                  30,884                  2
+194                            Always Discreet        9,419,711          252,794                  17,719                  0                  17,719                  7
+205                                     Tampax        2,630,396        1,227,452                   9,286                  0                   9,286                  1
+90                       Vicks Childrens Sinex           12,633           12,633                   8,772                 69                   8,772                 69
+189                   Secret Clinical Strength        1,966,248          213,865                   8,596                  0                   8,596                  4
+64                                      Bounty       24,250,744        1,802,052                   7,674                  0                   7,674                  0
+213                               Always Ultra        3,022,625          657,101                   5,791                  0                   5,791                  1
+210                           Always Overnight           77,604           77,604                   2,399                  3                   2,399                  3
+21                               Dawn Platinum        5,363,382           20,222                   2,207                  0                   2,207                 11
+225                            King C Gillette        3,331,222           14,266                   1,512                  0                   1,512                 11
+23                                       Downy       25,895,929        1,364,576                   1,440                  0                       0                  0
+191                             Secret Outlast        6,346,529          918,120                   1,207                  0                   1,207                  0
+37                              Gain Fireworks        3,110,427           27,989                     959                  0                     959                  3
+78                         Procter & Gamble Co          643,541                0                     911                  0                       0                  0
+197                       Pampers Cruisers 360        2,713,970              452                     452                  0                     452                100
+60                     Charmin Super Mega Roll          899,381          899,381                     377                  0                     377                  0
+95                               ZzzQuil Ultra        3,815,940          188,584                     148                  0                     148                  0
+144                                   Gillette        4,117,467        1,859,464                     108                  0                     108                  0
+77                  Procter & Gamble Corporate          182,690            1,255                      97                  0                      97                  8
+6                              Swiffer Sweeper          454,765          113,197                      86                  0                      86                  0
+114                            Vicks Pure Zzzs          302,188          302,188                      84                  0                      84                  0
+96                              Vicks VapoCool        3,792,670              134                      75                  0                      75                 56
+133                       Olay Hyaluronic Acid           17,087           17,087                      68                  0                      68                  0
+117                          Zzzquil Pure Zzzs          929,373          763,913                      58                  0                      58                  0
+229                              Gillette Labs        9,341,530           29,205                      52                  0                      52                  0
+8                               Swiffer WetJet        6,885,801              364                      44                  0                      44                 12
+174                                      Crest        2,831,947               41                      35                  0                      35                 86
+176                           Crest Pro-Health       12,907,397           78,469                      30                  0                      30                  0
+80                 DayQuil High Blood Pressure           63,352               22                      12                  0                      12                 53
+223                                      Bevel          173,395               10                      10                  0                      10                100
+148                           Head & Shoulders            6,070              122                       2                  0                       2                  2
+46                             Tide Power Pods              521                0                       0                  0                       0                  0
+43                                  Ivory Snow            3,877                0                       0                  0                       0                  0
+41                                 Ariel Ultra           13,510                0                       0                  0                       0                  0
+45                                   Tide Pods        3,036,287              959                       0                  0                       0                  0
+44                                    Tide Evo          247,586               33                       0                  0                       0                  0
+59                        Charmin Extra Strong            1,044                0                       0                  0                       0                  0
+62                                       Puffs          785,538                0                       0                  0                       0                  0
+54                               ILoveGain.com          494,126                0                       0                  0                       0                  0
+51                                  Gain Relax          762,398                0                       0                  0                       0                  0
+53                           Ariel Doble Poder            2,092                0                       0                  0                       0                  0
+50                                       Dreft            9,603                0                       0                  0                       0                  0
+47                                  Tide Ultra        3,704,847                0                       0                  0                       0                  0
+49                                      Bold 3            1,647                0                       0                  0                       0                  0
+48                          Ariel Revita Color              657                0                       0                  0                       0                  0
+75                                       Vicks          123,945              165                       0                  0                       0                  0
+76                         Art Of Shaving Shop          188,596                0                       0                  0                       0                  0
+73                                   Zevo Trap           32,936                0                       0                  0                       0                  0
+74                           DentureLiving.com          421,602                0                       0                  0                       0                  0
+72                                    Zevo Max           82,834                0                       0                  0                       0                  0
+40                         Ariel Color De Luxe              534                0                       0                  0                       0                  0
+39                                       Ariel           26,705                0                       0                  0                       0                  0
+38                                        Tide       27,721,322        1,426,621                       0                  0                       0                  0
+32                                  Downy Soft        2,774,043                0                       0                  0                       0                  0
+36                                  Tide To Go            1,106                0                       0                  0                       0                  0
+35                          Tide Stain Release              518                0                       0                  0                       0                  0
+34                                       Lenor            2,497                0                       0                  0                       0                  0
+33                                 Downy Ultra        1,419,689                0                       0                  0                       0                  0
+28                              Downy Amanecer            4,789                0                       0                  0                       0                  0
+29                           Downy April Fresh           46,915                0                       0                  0                       0                  0
+30                            Downy Comfy Cozy        1,008,857                0                       0                  0                       0                  0
+16                                     Cascade        1,009,361                0                       0                  0                       0                  0
+15                            Procter & Gamble        2,420,944          862,129                       0                  0                       0                  0
+17                                        Dawn        7,719,746           41,334                       0                  0                       0                  0
+27                Bounce Pet Hair & Lint Guard          753,722                0                       0                  0                       0                  0
+26                        Bounce Free & Gentle          888,929                0                       0                  0                       0                  0
+
+

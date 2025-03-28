@@ -1,0 +1,289 @@
+1. Recent Ad Spend of Procter & Gamble Co across all platforms
+
+                      BRAND  Jul 2024  $  ...  % Change (Aug vs Jul)  % Change (Sept vs Aug)
+0                     Downy    8,435,022  ...                     -1                      10
+1                      Zevo    7,418,985  ...                     -3                      10
+2                      Tide    8,551,672  ...                     38                     -38
+3                    Bounty    8,559,855  ...                     -1                     -16
+4             Charmin Ultra    5,399,852  ...                     27                     -12
+..                      ...          ...  ...                    ...                     ...
+234      Tide Stain Release            0  ...                    inf                    -100
+235         Tide Power Pods            0  ...                    inf                    -100
+236  Old Spice Raptorstrike            0  ...                    inf                    -100
+237          Art Of Shaving          505  ...                    298                    -100
+238               This Is L            0  ...                    inf                    -100
+
+[239 rows x 7 columns]
+
+2. Procter & Gamble Co Brands with High Ad Spend
+
+                   BRAND    TOTAL $
+206                 Tide 27,721,322
+59                 Downy 25,895,929
+31                Bounty 24,250,744
+230                 Zevo 22,477,423
+44        Crest 3D White 18,269,333
+..                   ...        ...
+176  Procter & Gamble Co    643,541
+204       Tampax Radiant    625,259
+11       Always Infinity    553,733
+181                SK-II    532,490
+153               Oral-B    531,642
+
+[124 rows x 2 columns]
+
+2. Procter & Gamble Co Brands with Low Ad Spend
+
+                                   BRAND  TOTAL $
+6                       Always Corporate        0
+205                            This Is L        3
+142                     Olay Niacinamide        9
+28                      Bounce Dryer Bar       26
+10                          Always Fresh      256
+..                                   ...      ...
+119                       Native Mineral  464,958
+112  Mielle Organics Pomegranate & Honey  476,145
+139                       Olay Corporate  486,958
+45               Crest Cavity Protection  488,580
+102                        ILoveGain.com  494,126
+
+[115 rows x 2 columns]
+
+3. Procter & Gamble Co Brands with Ad Spend Growth
+
+                                         BRAND    August Spend September Spend    Spend Change Spend Change %
+59                                       Downy   $8,311,274.00   $9,149,627.00     $838,353.00         10.09%
+230                                       Zevo   $7,161,054.00   $7,897,418.00     $736,364.00         10.28%
+206                                       Tide  $11,797,460.00   $7,372,186.00  $-4,425,274.00        -37.51%
+31                                      Bounty   $8,506,803.00   $7,184,089.00  $-1,322,714.00        -15.55%
+42                               Charmin Ultra   $6,840,786.00   $6,023,789.00    $-816,997.00        -11.94%
+..                                         ...             ...             ...             ...            ...
+128                 NyQuil High Blood Pressure          $23.96         $347.45         $323.48       1349.82%
+227                                      Voost         $111.13         $128.22          $17.09         15.38%
+10                                Always Fresh          $30.77         $106.66          $75.89        246.67%
+1    Align Bloating Relief Plus Food Digestion          $33.18          $48.03          $14.86         44.78%
+52                 DayQuil High Blood Pressure           $0.00          $21.83          $21.83         100.0%
+
+[342 rows x 5 columns]
+
+4. P&G Brands with Ad Spend Decline
+
+                      BRAND    August Spend September Spend    Spend Change Spend Change %
+59                    Downy   $8,311,274.00   $9,149,627.00     $838,353.00         10.09%
+230                    Zevo   $7,161,054.00   $7,897,418.00     $736,364.00         10.28%
+206                    Tide  $11,797,460.00   $7,372,186.00  $-4,425,274.00        -37.51%
+31                   Bounty   $8,506,803.00   $7,184,089.00  $-1,322,714.00        -15.55%
+42            Charmin Ultra   $6,840,786.00   $6,023,789.00    $-816,997.00        -11.94%
+..                      ...             ...             ...             ...            ...
+211      Tide Stain Release         $518.00           $0.00        $-518.00        -100.0%
+210         Tide Power Pods         $521.00           $0.00        $-521.00        -100.0%
+151  Old Spice Raptorstrike         $903.02           $0.00        $-903.02        -100.0%
+22           Art Of Shaving       $2,010.43           $0.00      $-2,010.43        -100.0%
+205               This Is L           $3.13           $0.00          $-3.13        -100.0%
+
+[362 rows x 5 columns]
+
+5. Spend by Procter & Gamble Co on different media types
+
+                 MEDIA      July Spend    August Spend  ... Sept % of Total Jul-Aug % Change Aug-Sept % Change
+1             Cable TV  $60,291,190.00  $71,748,231.00  ...          25.69%            19.0%           -17.75%
+12          Network TV  $43,224,239.00  $57,898,297.00  ...          18.11%           33.95%           -28.16%
+0                 AVOD  $19,801,972.86  $18,264,726.09  ...           9.07%           -7.76%            14.06%
+9     Mobile Web Video  $19,886,474.13  $20,632,356.15  ...           8.43%            3.75%            -6.19%
+18         Syndication  $18,627,790.00  $18,717,858.00  ...           7.43%            0.48%            -8.85%
+5          Local Radio  $16,817,868.52  $16,335,601.88  ...           6.58%           -2.87%            -7.49%
+6            Magazines   $7,680,156.45   $5,572,950.61  ...           4.86%          -27.44%           100.25%
+11       Network Radio   $7,860,235.00   $8,590,472.00  ...           4.47%            9.29%            19.43%
+7           Mobile App   $7,900,512.02   $7,701,830.53  ...           3.44%           -2.51%             2.47%
+14        Online Video   $7,280,924.59   $8,212,746.87  ...           3.37%            12.8%             -5.8%
+16    Span Lang Net TV   $7,906,897.00   $8,569,949.00  ...           3.35%            8.39%           -10.28%
+17             Spot TV   $4,910,394.00   $5,514,967.00  ...           2.54%           12.31%             5.99%
+4    Internet - Search   $2,075,892.98   $1,913,316.76  ...           0.96%           -7.83%            14.92%
+3   Internet - Display   $1,358,897.98   $1,593,687.32  ...           0.76%           17.28%             9.64%
+10     Natl Spot Radio     $692,486.00     $733,793.00  ...           0.48%            5.97%            49.11%
+8           Mobile Web     $343,959.64     $570,993.50  ...           0.44%           66.01%            75.92%
+15             Outdoor     $463,010.00     $193,013.00  ...           0.03%          -58.31%           -59.52%
+2               Cinema       $8,292.27      $52,480.35  ...           0.01%          532.88%            -38.1%
+13          Newspapers           $0.00           $0.00  ...            0.0%             0.0%              inf%
+
+[19 rows x 8 columns]
+
+6. Spend by Procter & Gamble Co brands on different media types
+
+                BRAND  AVOD  Cable TV  Cinema  ...  Span Lang Net TV  Spot TV  Syndication  Brand Total Spend
+205              Tide     1        35       0  ...                 6        2           11         27,721,322
+58              Downy     0         9       0  ...                 1        1            2         25,895,929
+30             Bounty     3        17       0  ...                 0        3           11         24,250,744
+229              Zevo     0        41       0  ...                 0        5           13         22,477,423
+43     Crest 3D White    28        31       0  ...                 2        1            5         18,269,333
+..                ...   ...       ...     ...  ...               ...      ...          ...                ...
+226             Voost     0         0       0  ...                 0        0            0                332
+9        Always Fresh     0         0       0  ...                 0        0            0                256
+27   Bounce Dryer Bar     0         0       0  ...                 0        0            0                 26
+141  Olay Niacinamide     0         0       0  ...                 0      100            0                  9
+204         This Is L     0         0       0  ...                 0        0            0                  3
+
+[238 rows x 21 columns]
+
+7. Spend by Procter & Gamble Co brands on Local Radio
+
+                         BRAND September Local Radio Spend  ... Aug-Sept % Change Jul-Aug % Change
+23       Downy Rinse & Refresh                 $793,832.00  ...           -26.73%          -17.39%
+51  Old Spice Gentlemans Blend                 $782,330.70  ...           -18.86%          -19.48%
+73          Tide Free & Gentle                 $766,311.00  ...            -8.04%           -6.91%
+27                 Febreze Car                 $703,000.60  ...             -3.5%          -11.44%
+47                   Olay Body                 $699,399.86  ...            74.47%           -4.47%
+..                         ...                         ...  ...               ...              ...
+46               Nyquil Severe                       $0.00  ...           -100.0%             inf%
+50                   Old Spice                       $0.00  ...           -100.0%             inf%
+59                      Secret                       $0.00  ...           -100.0%          -41.69%
+53        Pampers Cruisers 360                       $0.00  ...              0.0%          -100.0%
+71                   This Is L                       $0.00  ...           -100.0%             inf%
+
+[86 rows x 5 columns]
+
+7. Spend by Procter & Gamble Co brands on Network Radio
+
+                   BRAND September Network Radio Spend  ... Aug-Sept % Change Jul-Aug % Change
+19                Secret                   $845,179.00  ...            18.55%           -1.91%
+21               Swiffer                   $773,772.00  ...             8.08%           16.23%
+15             Olay Body                   $722,753.00  ...            11.95%           -7.45%
+9               Gillette                   $710,925.00  ...            24.16%           -0.38%
+7                Febreze                   $686,446.00  ...             9.35%           15.16%
+18      Procter & Gamble                   $648,292.00  ...           221.45%             inf%
+6                  Downy                   $592,154.00  ...            57.62%            -5.3%
+1                 Always                   $511,119.00  ...            15.98%           -0.55%
+4                Charmin                   $490,770.00  ...            15.46%           -0.72%
+8                   Gain                   $451,701.00  ...             9.81%          -21.06%
+10        Gillette Venus                   $416,242.00  ...             7.68%            0.35%
+23                  Tide                   $306,640.00  ...            32.51%           -2.31%
+28     Zzzquil Pure Zzzs                   $264,644.00  ...              4.6%            4.38%
+0                  Align                   $263,902.00  ...             33.6%           -3.66%
+20                 Sinex                   $262,584.00  ...            20.71%             inf%
+3                 Bounty                   $256,861.00  ...             9.23%            -1.3%
+11             Metamucil                   $246,695.00  ...            18.61%            3.23%
+16             Old Spice                   $239,271.00  ...             9.66%            9.63%
+22                Tampax                   $223,344.00  ...            12.72%           -4.84%
+25       Vicks VapoStick                   $221,181.00  ...            77.62%             inf%
+12              Mr Clean                   $212,171.00  ...            -14.5%           21.09%
+2                 Bounce                   $203,532.00  ...             44.1%           -8.01%
+24       Vicks Pure Zzzs                   $188,898.00  ...            69.44%             inf%
+13  Nervive Nerve Relief                   $187,818.00  ...            44.75%           -1.48%
+17          Pepto-Bismol                   $178,985.00  ...            -4.13%           22.14%
+27               Zzzquil                   $140,154.00  ...            20.96%           33.12%
+5                Dayquil                    $13,440.00  ...           236.84%             inf%
+14                  OUAI                       $297.00  ...              inf%             0.0%
+26                  Zevo                         $0.00  ...           -100.0%           -3.91%
+
+[29 rows x 5 columns]
+
+7. Spend by Procter & Gamble Co brands on Natl Spot Radio
+
+                   BRAND September Natl Spot Radio Spend  ... Aug-Sept % Change Jul-Aug % Change
+6                   Gain                     $365,504.00  ...            16.52%           20.43%
+5            Febreze Car                     $245,624.00  ...            40.43%          -10.09%
+11                  Tide                     $232,363.00  ...             8.79%            3.81%
+1                 Bounce                     $200,000.00  ...              inf%             0.0%
+0                 Always                      $25,340.00  ...          1960.16%             0.0%
+4                   Dawn                      $13,838.00  ...              0.0%            1.32%
+7   Olay Body Collection                       $3,030.00  ...              0.0%             0.0%
+8              Old Spice                       $2,765.00  ...            32.93%             0.0%
+10                Secret                       $2,325.00  ...             25.0%             0.0%
+2                 Bounty                       $2,050.00  ...             25.0%             0.0%
+13     Zzzquil Pure Zzzs                         $740.00  ...           -20.43%             0.0%
+3                Charmin                         $440.00  ...           -52.69%          -24.39%
+12                 Vicks                         $165.00  ...              inf%             0.0%
+9       Procter & Gamble                           $0.00  ...           -100.0%             0.0%
+
+[14 rows x 5 columns]
+
+8. Spend by Procter & Gamble Co categories across all platforms
+
+                                            CATEGORY  July Spend  ...  Jul-Aug % Change  Aug-Sept % Change
+7                          Bleach & Fabric Softeners  15,644,072  ...                 8                 21
+44                     Heavy Duty Laundry Detergents  15,715,434  ...                22                -28
+48                Household Equipment & Utensils NEC  12,663,001  ...                19                -20
+36                                  Facial Skin Care   8,511,772  ...                27                 -3
+15                             Cold & Sinus Remedies     199,728  ...             1,912                156
+..                                               ...         ...  ...               ...                ...
+38  Feminine Hygiene Corporate Promotion/Sponsorship           0  ...                 0                  0
+82              Women's Scents, Fragrances, Perfumes          19  ...              -100                  0
+66           Personal Care & Grooming Appliances NEC       1,022  ...              -100                  0
+53           Medical Appliances, Equipment & Devices           0  ...               inf               -100
+72                             Shaving Supplies-Mens         505  ...               158               -100
+
+[86 rows x 8 columns]
+
+9. Spend by parents on different media types
+
+                                    PARENT  AVOD  ...  Syndication  Parent Total Spend
+43751                       PARENT UNKNOWN     1  ...            1       5,187,057,347
+3446                        Amazon.com Inc     5  ...            0       1,229,582,238
+46923                  Procter & Gamble Co     8  ...            8         709,666,372
+46975                     Progressive Corp     1  ...            1         611,981,155
+19977                          Expedia Inc     4  ...            0         597,262,373
+44285                        POLITICAL ADV     0  ...            0         590,613,149
+14113                         Comcast Corp     6  ...            0         575,552,858
+42042     Not Itemized-Digital Advertising     0  ...            0         521,842,625
+62278                          Walmart Inc     8  ...            1         483,929,632
+7610                Berkshire Hathaway Inc     6  ...            1         420,879,622
+3232                         Allstate Corp     2  ...            1         417,279,287
+62285                       Walt Disney Co     8  ...            0         408,699,444
+1962                            AbbVie Inc     9  ...           10         407,197,241
+17072                  Deutsche Telekom Ag     7  ...            1         401,266,740
+8655                  Booking Holdings Inc     4  ...            0         391,690,388
+60944           Verizon Communications Inc     7  ...            2         382,338,385
+60259                              Us Govt     5  ...            3         309,757,008
+4303                             Apple Inc     3  ...            0         285,354,051
+58611                    Toyota Motor Corp     9  ...            1         282,420,568
+57386                          Target Corp     4  ...            1         265,905,928
+3300                          Alphabet Inc     0  ...            0         264,214,651
+1759                              AT&T Inc     6  ...            0         259,558,242
+30280                 JP Morgan Chase & Co     2  ...            1         253,709,767
+41155                       NerdWallet Inc     0  ...            0         231,321,373
+26741                 Harris For President     0  ...            0         226,530,851
+11838           Capital One Financial Corp    10  ...            1         223,704,182
+28351                         Hyundai Corp     8  ...            0         216,158,790
+59858                         Unilever Plc    28  ...            2         210,878,701
+23923                  General Motors Corp     8  ...            1         208,228,037
+55265        State Farm Mutual Auto Ins Co    10  ...            0         199,272,813
+49610                  Roark Capital Group    17  ...            0         197,147,359
+23921                    General Mills Inc    17  ...            6         186,518,720
+27718                       Home Depot Inc     1  ...            0         185,078,077
+29652                           Intuit Inc    10  ...            0         183,657,408
+43873                     PDD Holdings Inc     0  ...            0         182,832,118
+42058                 Not Itemized-Loc Dlr     5  ...            0         181,024,442
+62551                          Wayfair Llc     7  ...            0         177,953,834
+42119                      Novo Nordisk AS     0  ...            8         176,589,682
+7665                       Best Buy Co Inc     1  ...            0         171,804,335
+36720                            Macys Inc     5  ...            3         170,181,156
+47153          Public Service Announcement     0  ...            0         169,811,228
+41622                  Nissan Motor Co Ltd     4  ...            0         168,481,988
+24250                  Glaxosmithkline Plc    12  ...           11         167,595,093
+35104                        Lowes Cos Inc     4  ...            3         166,591,890
+41163                            Nestle Sa    16  ...            2         165,832,438
+33342  LVMH Moet Hennessy Louis Vuitton SA    11  ...            0         162,940,218
+45479                          Pepsico Inc    13  ...            0         162,491,541
+19166                       Eli Lilly & Co    10  ...            0         157,480,512
+55363                        Stellantis NV    18  ...            4         156,820,825
+49182           Restaurant Brands Intl Inc    22  ...            0         155,863,832
+
+[50 rows x 26 columns]
+
+10. Spend by industry on different media types
+
+                                   Industry  Total Spend ($)                             Media Distribution (%)
+0                                    Retail    6,996,803,815  Cinema: 0.02%, Digital: 76.28%, Magazines: 1.1...
+1                Misc Services & Amusements    5,025,216,798  Cinema: 0.04%, Digital: 47.7%, Magazines: 1.77...
+2                       Media & Advertising    3,794,430,884  Cinema: 0.28%, Digital: 67.16%, Magazines: 1.4...
+3                   Insurance & Real Estate    3,533,616,691  Cinema: 0.18%, Digital: 64.34%, Magazines: 1.0...
+4                                 Financial    3,491,076,902  Cinema: 0.03%, Digital: 64.09%, Magazines: 0.9...
+..                                      ...              ...                                                ...
+56  Drugs, Toiletries & Fitness: Comb & NEC       28,809,995  Digital: 50.98%, Magazines: 0.19%, Newspaper: ...
+57                  Aviation (Excl Freight)       18,835,852  Cinema: 0.0%, Digital: 54.85%, Magazines: 10.4...
+58         Home & Building: Comb Copy & NEC        1,108,697  Digital: 67.57%, Magazines: 5.88%, Outdoor: 25...
+59  Misc Svc,Amuse,Retail,Dir Resp:Comb&NEC          226,983                                  Magazines: 100.0%
+60              Transportation & Travel NEC          173,858     Digital: 0.72%, Outdoor: 81.39%, Radio: 17.89%
+
+[61 rows x 3 columns]
+

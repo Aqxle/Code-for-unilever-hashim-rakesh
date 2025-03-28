@@ -1,0 +1,268 @@
+Predefined Functions:
+
+(                  BRAND Jul 2024  $M  ... % Change (Aug vs Jul) % Change (Sept vs Aug)
+0                 Downy        $8.44  ...                -1.47%                 10.09%
+1                  Zevo        $7.42  ...                -3.48%                 10.28%
+2                  Tide        $8.55  ...                37.96%                -37.51%
+3                Bounty        $8.56  ...                -0.62%                -15.55%
+4         Charmin Ultra        $5.40  ...                26.68%                -11.94%
+..                  ...          ...  ...                   ...                    ...
+235           This Is L        $0.00  ...                     -               -100.00%
+236  Tide Stain Release        $0.00  ...                     -               -100.00%
+237     Tide Power Pods        $0.00  ...                     -               -100.00%
+238            Zevo Max        $0.08  ...               -98.56%               -100.00%
+239               Total      $227.13  ...                11.31%                 -9.14%
+
+[240 rows x 7 columns], '1. Recent Ad Spend of Procter & Gamble Co brands across all platforms')
+(                   BRAND TOTAL $M
+206                 Tide   $27.72
+59                 Downy   $25.90
+31                Bounty   $24.25
+230                 Zevo   $22.48
+44        Crest 3D White   $18.27
+..                   ...      ...
+176  Procter & Gamble Co    $0.64
+204       Tampax Radiant    $0.63
+11       Always Infinity    $0.55
+181                SK-II    $0.53
+153               Oral-B    $0.53
+
+[124 rows x 2 columns], '2. Procter & Gamble Co Brands with High Ad Spend')
+(                                   BRAND TOTAL $M
+217                       Vicks BabyBalm    $0.01
+84                       Gillette Fusion    $0.01
+88                     Gillette ProGlide    $0.01
+155                  Oral-B Encias Detox    $0.01
+24                                Aussie    $0.01
+..                                   ...      ...
+119                       Native Mineral    $0.46
+112  Mielle Organics Pomegranate & Honey    $0.48
+139                       Olay Corporate    $0.49
+45               Crest Cavity Protection    $0.49
+102                        ILoveGain.com    $0.49
+
+[67 rows x 2 columns], '2. Procter & Gamble Co Brands with Low Ad Spend')
+(                                         BRAND August Spend ($M)  ... Spend Change ($M) Spend Change %
+59                                       Downy             $8.31  ...             $0.84         10.09%
+230                                       Zevo             $7.16  ...             $0.74         10.28%
+64                       Downy Rinse & Refresh             $4.26  ...             $1.14         26.69%
+138                       Olay Cleansing Melts             $4.32  ...             $0.88         20.27%
+149                 Old Spice Gentlemans Blend             $3.50  ...             $0.67          19.1%
+..                                         ...               ...  ...               ...            ...
+128                 NyQuil High Blood Pressure             $0.00  ...             $0.00       1349.82%
+227                                      Voost             $0.00  ...             $0.00         15.38%
+10                                Always Fresh             $0.00  ...             $0.00        246.67%
+1    Align Bloating Relief Plus Food Digestion             $0.00  ...             $0.00         44.78%
+52                 DayQuil High Blood Pressure             $0.00  ...             $0.00         100.0%
+
+[102 rows x 5 columns], '3. Procter & Gamble Co Brands with Ad Spend Growth')
+(                              BRAND August Spend ($M) September Spend ($M) Spend Change ($M) Spend Change %
+206                            Tide            $11.80                $7.37            $-4.43        -37.51%
+31                           Bounty             $8.51                $7.18            $-1.32        -15.55%
+42                    Charmin Ultra             $6.84                $6.02            $-0.82        -11.94%
+116                          Native             $7.97                $5.24            $-2.73        -34.24%
+95   Head & Shoulders Classic Clean             $7.38                $5.13            $-2.25        -30.47%
+..                              ...               ...                  ...               ...            ...
+189                    Secret Sheer             $0.00                $0.00            $-0.00        -100.0%
+205                       This Is L             $0.00                $0.00            $-0.00        -100.0%
+211              Tide Stain Release             $0.00                $0.00            $-0.00        -100.0%
+210                 Tide Power Pods             $0.00                $0.00            $-0.00        -100.0%
+231                        Zevo Max             $0.00                $0.00            $-0.00        -100.0%
+
+[122 rows x 5 columns], '4. Procter & Gamble Co Brands with Ad Spend Decline')
+(                 MEDIA July Spend ($M) August Spend ($M)  ... Sept % of Total Jul-Aug % Change Aug-Sept % Change
+0             Cable TV          $60.29            $71.75  ...          25.69%            19.0%           -17.75%
+1           Network TV          $43.22            $57.90  ...          18.11%           33.95%           -28.16%
+2                 AVOD          $19.80            $18.26  ...           9.07%           -7.76%            14.06%
+3     Mobile Web Video          $19.89            $20.63  ...           8.43%            3.75%            -6.19%
+4          Syndication          $18.63            $18.72  ...           7.43%            0.48%            -8.85%
+5          Local Radio          $16.82            $16.34  ...           6.58%           -2.87%            -7.49%
+6            Magazines           $7.68             $5.57  ...           4.86%          -27.44%           100.25%
+7        Network Radio           $7.86             $8.59  ...           4.47%            9.29%            19.43%
+8           Mobile App           $7.90             $7.70  ...           3.44%           -2.51%             2.47%
+9         Online Video           $7.28             $8.21  ...           3.37%            12.8%             -5.8%
+10    Span Lang Net TV           $7.91             $8.57  ...           3.35%            8.39%           -10.28%
+11             Spot TV           $4.91             $5.51  ...           2.54%           12.31%             5.99%
+12   Internet - Search           $2.08             $1.91  ...           0.96%           -7.83%            14.92%
+13  Internet - Display           $1.36             $1.59  ...           0.76%           17.28%             9.64%
+14     Natl Spot Radio           $0.69             $0.73  ...           0.48%            5.97%            49.11%
+15          Mobile Web           $0.34             $0.57  ...           0.44%           66.01%            75.92%
+16             Outdoor           $0.46             $0.19  ...           0.03%          -58.31%           -59.52%
+17              Cinema           $0.01             $0.05  ...           0.01%          532.88%            -38.1%
+18          Newspapers           $0.00             $0.00  ...            0.0%             0.0%                 -
+19               Total         $227.13           $252.82  ...          100.0%           11.31%            -9.14%
+
+[20 rows x 8 columns], '5. Spend by Procter & Gamble Co on different media types')
+(                BRAND    AVOD Cable TV Cinema  ... Span Lang Net TV  Spot TV Syndication Brand Total Spend ($M)
+205              Tide   0.96%   34.71%  0.00%  ...            6.38%    1.67%      10.51%                 $27.72
+58              Downy   0.00%    8.51%  0.00%  ...            1.48%    0.70%       2.28%                 $25.90
+30             Bounty   2.70%   17.33%  0.00%  ...            0.00%    2.63%      11.03%                 $24.25
+229              Zevo   0.00%   40.54%  0.00%  ...            0.00%    4.64%      12.84%                 $22.48
+43     Crest 3D White  27.65%   30.68%  0.00%  ...            2.08%    1.35%       5.45%                 $18.27
+..                ...     ...      ...    ...  ...              ...      ...         ...                    ...
+226             Voost   0.00%    0.00%  0.00%  ...            0.00%    0.00%       0.00%                  $0.00
+9        Always Fresh   0.00%    0.00%  0.00%  ...            0.00%    0.00%       0.00%                  $0.00
+27   Bounce Dryer Bar   0.00%    0.00%  0.00%  ...            0.00%    0.00%       0.00%                  $0.00
+141  Olay Niacinamide   0.00%    0.00%  0.00%  ...            0.00%  100.00%       0.00%                  $0.00
+204         This Is L   0.00%    0.00%  0.00%  ...            0.00%    0.00%       0.00%                  $0.00
+
+[238 rows x 21 columns], '6. Spend by Procter & Gamble Co brands on different media types')
+(                         BRAND September Local Radio Spend ($M)  ... Aug-Sept % Change Jul-Aug % Change
+23       Downy Rinse & Refresh                            $0.79  ...           -26.73%          -17.39%
+51  Old Spice Gentlemans Blend                            $0.78  ...           -18.86%          -19.48%
+73          Tide Free & Gentle                            $0.77  ...            -8.04%           -6.91%
+27                 Febreze Car                            $0.70  ...             -3.5%          -11.44%
+47                   Olay Body                            $0.70  ...            74.47%           -4.47%
+..                         ...                              ...  ...               ...              ...
+40             Mielle Organics                            $0.00  ...           -100.0%                -
+38      Metamucil 4-In-1 Fiber                            $0.00  ...           -100.0%           -74.6%
+59                      Secret                            $0.00  ...           -100.0%          -41.69%
+71                   This Is L                            $0.00  ...           -100.0%                -
+72                    Tide Evo                            $0.00  ...              0.0%          -100.0%
+
+[86 rows x 5 columns], '7. Spend by Procter & Gamble Co brands on Local Radio')
+(                   BRAND September Network Radio Spend ($M)  ... Aug-Sept % Change Jul-Aug % Change
+19                Secret                              $0.85  ...            18.55%           -1.91%
+21               Swiffer                              $0.77  ...             8.08%           16.23%
+15             Olay Body                              $0.72  ...            11.95%           -7.45%
+9               Gillette                              $0.71  ...            24.16%           -0.38%
+7                Febreze                              $0.69  ...             9.35%           15.16%
+18      Procter & Gamble                              $0.65  ...           221.45%                -
+6                  Downy                              $0.59  ...            57.62%            -5.3%
+1                 Always                              $0.51  ...            15.98%           -0.55%
+4                Charmin                              $0.49  ...            15.46%           -0.72%
+8                   Gain                              $0.45  ...             9.81%          -21.06%
+10        Gillette Venus                              $0.42  ...             7.68%            0.35%
+23                  Tide                              $0.31  ...            32.51%           -2.31%
+28     Zzzquil Pure Zzzs                              $0.26  ...              4.6%            4.38%
+0                  Align                              $0.26  ...             33.6%           -3.66%
+20                 Sinex                              $0.26  ...            20.71%                -
+3                 Bounty                              $0.26  ...             9.23%            -1.3%
+11             Metamucil                              $0.25  ...            18.61%            3.23%
+16             Old Spice                              $0.24  ...             9.66%            9.63%
+22                Tampax                              $0.22  ...            12.72%           -4.84%
+25       Vicks VapoStick                              $0.22  ...            77.62%                -
+12              Mr Clean                              $0.21  ...            -14.5%           21.09%
+2                 Bounce                              $0.20  ...             44.1%           -8.01%
+24       Vicks Pure Zzzs                              $0.19  ...            69.44%                -
+13  Nervive Nerve Relief                              $0.19  ...            44.75%           -1.48%
+17          Pepto-Bismol                              $0.18  ...            -4.13%           22.14%
+27               Zzzquil                              $0.14  ...            20.96%           33.12%
+5                Dayquil                              $0.01  ...           236.84%                -
+14                  OUAI                              $0.00  ...                 -             0.0%
+26                  Zevo                              $0.00  ...           -100.0%           -3.91%
+
+[29 rows x 5 columns], '7. Spend by Procter & Gamble Co brands on Network Radio')
+(                   BRAND September Natl Spot Radio Spend ($M)  ... Aug-Sept % Change Jul-Aug % Change
+6                   Gain                                $0.37  ...            16.52%           20.43%
+5            Febreze Car                                $0.25  ...            40.43%          -10.09%
+11                  Tide                                $0.23  ...             8.79%            3.81%
+1                 Bounce                                $0.20  ...                 -             0.0%
+0                 Always                                $0.03  ...          1960.16%             0.0%
+4                   Dawn                                $0.01  ...              0.0%            1.32%
+7   Olay Body Collection                                $0.00  ...              0.0%             0.0%
+8              Old Spice                                $0.00  ...            32.93%             0.0%
+10                Secret                                $0.00  ...             25.0%             0.0%
+2                 Bounty                                $0.00  ...             25.0%             0.0%
+13     Zzzquil Pure Zzzs                                $0.00  ...           -20.43%             0.0%
+3                Charmin                                $0.00  ...           -52.69%          -24.39%
+12                 Vicks                                $0.00  ...                 -             0.0%
+9       Procter & Gamble                                $0.00  ...           -100.0%             0.0%
+
+[14 rows x 5 columns], '7. Spend by Procter & Gamble Co brands on Natl Spot Radio')
+(                                   CATEGORY July Spend ($M)  ... Jul-Aug % Change Aug-Sept % Change
+0                 Bleach & Fabric Softeners          $15.64  ...            7.57%            20.80%
+1             Heavy Duty Laundry Detergents          $15.72  ...           21.64%           -27.91%
+2        Household Equipment & Utensils NEC          $12.66  ...           18.80%           -20.50%
+3                          Facial Skin Care           $8.51  ...           26.81%            -2.66%
+4                     Cold & Sinus Remedies           $0.20  ...         1912.20%           155.90%
+..                                      ...             ...  ...              ...               ...
+82  Medical Appliances, Equipment & Devices           $0.00  ...                -          -100.00%
+83  Personal Care & Grooming Appliances NEC           $0.00  ...         -100.00%             0.00%
+84                    Shaving Supplies-Mens           $0.00  ...          157.55%          -100.00%
+85     Women's Scents, Fragrances, Perfumes           $0.00  ...         -100.00%             0.00%
+86                                    Total         $227.13  ...           11.31%            -9.14%
+
+[87 rows x 8 columns], '8. Spend by Procter & Gamble Co categories across all platforms')
+(                                 PARENT    AVOD  ... Syndication Parent Total Spend ($M)
+0                        PARENT UNKNOWN   1.35%  ...       0.52%                $5187.06
+1                        Amazon.com Inc   5.07%  ...       0.35%                $1229.58
+2                   Procter & Gamble Co   8.30%  ...       7.67%                 $709.67
+3                      Progressive Corp   1.28%  ...       1.12%                 $611.98
+4                           Expedia Inc   4.26%  ...       0.05%                 $597.26
+5                         POLITICAL ADV   0.00%  ...       0.00%                 $590.61
+6                          Comcast Corp   6.17%  ...       0.00%                 $575.55
+7      Not Itemized-Digital Advertising   0.00%  ...       0.00%                 $521.84
+8                           Walmart Inc   8.06%  ...       0.92%                 $483.93
+9                Berkshire Hathaway Inc   6.50%  ...       0.81%                 $420.88
+10                        Allstate Corp   2.41%  ...       1.03%                 $417.28
+11                       Walt Disney Co   7.98%  ...       0.32%                 $408.70
+12                           AbbVie Inc   8.95%  ...       9.80%                 $407.20
+13                  Deutsche Telekom Ag   6.63%  ...       1.32%                 $401.27
+14                 Booking Holdings Inc   4.26%  ...       0.00%                 $391.69
+15           Verizon Communications Inc   7.09%  ...       1.88%                 $382.34
+16                              Us Govt   4.76%  ...       3.16%                 $309.76
+17                            Apple Inc   3.08%  ...       0.32%                 $285.35
+18                    Toyota Motor Corp   8.67%  ...       0.86%                 $282.42
+19                          Target Corp   3.80%  ...       0.63%                 $265.91
+20                         Alphabet Inc   0.41%  ...       0.00%                 $264.21
+21                             AT&T Inc   6.40%  ...       0.03%                 $259.56
+22                 JP Morgan Chase & Co   1.64%  ...       0.59%                 $253.71
+23                       NerdWallet Inc   0.00%  ...       0.00%                 $231.32
+24                 Harris For President   0.04%  ...       0.00%                 $226.53
+25           Capital One Financial Corp   9.62%  ...       1.26%                 $223.70
+26                         Hyundai Corp   7.95%  ...       0.00%                 $216.16
+27                         Unilever Plc  27.57%  ...       1.91%                 $210.88
+28                  General Motors Corp   8.23%  ...       0.95%                 $208.23
+29        State Farm Mutual Auto Ins Co   9.96%  ...       0.09%                 $199.27
+30                  Roark Capital Group  17.30%  ...       0.00%                 $197.15
+31                    General Mills Inc  17.34%  ...       5.66%                 $186.52
+32                       Home Depot Inc   0.90%  ...       0.00%                 $185.08
+33                           Intuit Inc  10.12%  ...       0.00%                 $183.66
+34                     PDD Holdings Inc   0.00%  ...       0.00%                 $182.83
+35                 Not Itemized-Loc Dlr   5.33%  ...       0.00%                 $181.02
+36                          Wayfair Llc   7.46%  ...       0.07%                 $177.95
+37                      Novo Nordisk AS   0.01%  ...       8.40%                 $176.59
+38                      Best Buy Co Inc   1.38%  ...       0.06%                 $171.80
+39                            Macys Inc   4.51%  ...       2.67%                 $170.18
+40          Public Service Announcement   0.00%  ...       0.00%                 $169.81
+41                  Nissan Motor Co Ltd   4.29%  ...       0.46%                 $168.48
+42                  Glaxosmithkline Plc  11.76%  ...      10.60%                 $167.60
+43                        Lowes Cos Inc   3.51%  ...       2.52%                 $166.59
+44                            Nestle Sa  16.07%  ...       2.16%                 $165.83
+45  LVMH Moet Hennessy Louis Vuitton SA  10.99%  ...       0.22%                 $162.94
+46                          Pepsico Inc  12.87%  ...       0.45%                 $162.49
+47                       Eli Lilly & Co  10.11%  ...       0.04%                 $157.48
+48                        Stellantis NV  17.52%  ...       4.36%                 $156.82
+49           Restaurant Brands Intl Inc  21.93%  ...       0.01%                 $155.86
+50                                Total   2.91%  ...       0.59%               $54041.68
+
+[51 rows x 26 columns], '9. Spend by parents on different media types')
+(                                   Industry AVOD %  ... Syndication % Total Spend ($M)
+0                                    Retail  3.33%  ...         0.31%         $6996.80
+1                Misc Services & Amusements  3.79%  ...         0.81%         $5025.22
+2                       Media & Advertising  5.42%  ...         0.25%         $3794.43
+3                   Insurance & Real Estate  3.60%  ...         1.55%         $3533.62
+4                                 Financial  5.22%  ...         0.34%         $3491.08
+..                                      ...    ...  ...           ...              ...
+57                  Aviation (Excl Freight)  0.00%  ...         0.00%           $18.84
+58         Home & Building: Comb Copy & NEC  0.00%  ...         0.00%            $1.11
+59  Misc Svc,Amuse,Retail,Dir Resp:Comb&NEC  0.00%  ...         0.00%            $0.23
+60              Transportation & Travel NEC  0.00%  ...         0.00%            $0.17
+61                                    Total  5.82%  ...         1.18%        $54041.68
+
+[62 rows x 26 columns], '10. Spend by industry on different media types')
+(                                  Brand  Total Spend ($)  ...  iHeart Radio Spend ($)  iHeart % of Radio
+31                Downy Rinse & Refresh       13,185,253  ...               2,124,803                 67
+0                           Febreze Car       12,136,371  ...               1,483,701                 52
+52                   Tide Free & Gentle        4,324,199  ...               1,465,293                 59
+182          Old Spice Gentlemans Blend       10,737,947  ...               1,277,149                 43
+56                    Downy Unstopables       10,449,848  ...               1,257,094                 57
+..                                  ...              ...  ...                     ...                ...
+234                     Gillette Mach 3            4,240  ...                       0                  0
+235                   Gillette ProGlide            5,093  ...                       0                  0
+236              Old Spice Raptorstrike              903  ...                       0                  0
+237                          Zirh Store           39,576  ...                       0                  0
+238  Procter & Gamble Professional Line          158,600  ...                       0                  0
+
+[239 rows x 7 columns], 'Spend by Procter & Gamble Co brands on iHeartMedia Inc')

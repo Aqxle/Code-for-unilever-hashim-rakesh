@@ -1,0 +1,40 @@
+QUESTION:
+What’s the overall total spend, and % share of Radio?
+
+CODE:
+
+import pandas as pd
+
+def main(df):
+    # Calculate the overall total spend
+    total_spend = df['TOTAL $'].sum()
+    
+    # Calculate the total spend for the "Radio" media group
+    radio_spend = df[df['MEDIA GROUP'] == 'Radio']['TOTAL $'].sum()
+    
+    # Calculate the percentage share of Radio
+    radio_share_percent = (radio_spend / total_spend) * 100 if total_spend != 0 else 0
+    
+    # Prepare the result in a DataFrame
+    result = pd.DataFrame({
+        'Category': ['Total Spend', 'Radio Spend', 'Radio Share %'],
+        'Value': [total_spend, radio_spend, radio_share_percent],
+        'Description': ['Overall total spend across all media groups', 
+                        'Total spend for Radio media group', 
+                        'Percentage share of Radio spend in total spend']
+    })
+    
+    # Sort the result in descending order by Value
+    result = result.sort_values(by='Value', ascending=False)
+    
+    return result
+
+# Note: The actual function call and data loading should be done outside this function.
+# Example usage:
+# df = pd.read_csv('path_to_file.csv')
+# output = main(df)
+# print(output)
+
+
+*************************************************
+
